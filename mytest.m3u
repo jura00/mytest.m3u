@@ -7,6 +7,10 @@ http://4127302f.iptvspy.me/iptv/NTNSEG6A7LSUKX/702/index.m3u8
 http://37.49.212.64:81/udp/239.54.7.57:1224
 
 
+#EXTINF:-1,Cупер +2
+http://37.49.212.64:81/udp/239.54.7.129:1224
+
+
 #EXTINF:0,НТВ
 http://tv.cityline.dn.ua/TV1/NTV/index.m3u8
 
