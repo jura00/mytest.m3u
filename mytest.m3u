@@ -17,6 +17,79 @@ http://dmitry-tv.ddns.net:8666/Dmitry-tv
 http://dmitry-tv.ddns.net:8000/Dmitry-tvHD
 
 
+#EXTINF:-1,Россия К
+http://185.226.245.248:81/udp/239.195.1.106:1234
+
+
+#EXTINF:-1,Волгоград 1
+https://strm.yandex.ru/kal/volgograd1/volgograd10_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-1,Волгоград 24
+http://serv24.vintera.tv:8081/volga24/volgograd24/playlist.m3u8
+
+#EXTINF:-1,НТВ ХИТ
+http://185.226.245.248:81/udp/239.195.4.59:1234
+#EXTINF:-1,МИР
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/chunklist.m3u8
+#EXTINF:-1,Звезда HD
+http://livezvezda.cdnvideo.ru/zv/zvezda1.sdp/playlist.m3u8
+#EXTINF:-1,РЕН ТВ [A]
+http://185.226.245.248:81/udp/239.195.0.9:1234
+#EXTINF:-1,СТВ-РЕН ТВ (Беларусь)
+http://212.98.171.116/HLS/ctvby/playlist.m3u8
+
+#EXTINF:-1,THT
+http://178.163.15.171:4022/udp/234.0.0.186:2000
+#EXTINF:-1,ТНТ [A]
+http://185.226.245.248:81/udp/239.195.0.17:1234
+#EXTINF:-1,ТНТ [A] (+4)
+http://178.163.15.171:4022/udp/234.0.0.9:2000
+
+
+#EXTINF:-1,ТНТ4
+http://178.163.15.171:4022/udp/234.0.0.181:2000
+#EXTINF:-1,ТВЦ 
+http://ad-hls-tvc.cdnvideo.ru/tvc-p222/smil:tvc.smil/chunklist_b1682100.m3u8
+#EXTINF:-1,Пятый канал (+7)
+http://193.233.174.234:81/udp/239.191.254.245:13343
+
+#EXTINF:-1,Супер
+http://178.163.15.171:4022/udp/234.0.0.100:2000
+
+#EXTINF:-1,Красная Линия
+http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
+
+#EXTINF:-1,Восток 24 (Владивосток)
+http://193.233.174.234:81/udp/239.191.255.33:13343
+
+#EXTINF:-1,2x2
+http://178.163.15.171:4022/udp/234.0.0.244:2000
+
+#EXTINF:-1,Cartoon
+http://193.233.174.234:81/udp/239.191.255.7:13343
+
+#EXTINF:-1,Карапуз ТВ HD
+http://online.karapuztv.ru/content/33418/index.m3u8?token=karapuztv2018
+#EXTINF:-1,Disney Channel
+http://178.163.15.171:4022/udp/234.0.0.198:2000
+
+#EXTINF:-1,Карусель (1)
+http://178.163.15.171:4022/udp/234.0.0.203:2000
+#EXTINF:-1,Карусель (+7)
+http://193.233.174.234:81/udp/239.191.254.248:13343
+#EXTINF:-1,Мультимания
+http://185.226.245.248:81/udp/239.195.5.30:1234
+
+#EXTINF:-1,JimJam
+http://178.163.15.171:4022/udp/234.0.0.152:2000
+
+#EXTINF:-1,СМАЙЛИК ТВ HD
+http://193.233.174.234:81/udp/239.191.254.92:13343
+
+#EXTINF:-1,Бокс ТВ
+http://185.226.245.248:81/udp/239.195.4.175:1234
+
+
+
 #EXTINF:-1,Дом кино премиум HD
 http://tvport.it-tele.net:8000/66b737995212187db9a8bb26bdb4ba02
 
