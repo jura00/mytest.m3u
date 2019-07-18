@@ -1,6 +1,6 @@
 #EXTM3U 
 
-#EXTINF:0,2X2
+#EXTINF:0 group-title="миксХЛАМА",2X2
 http://4127302f.iptvspy.me/iptv/NTNSEG6A7LSUKX/702/index.m3u8
 
 #EXTINF:-1,Cartoon network
