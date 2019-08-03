@@ -1,5 +1,702 @@
 #EXTM3U
-#EXTINF:-1,1 Крым HD
+
+#EXTINF:-1 group-title="Познавательные",365 дней
+http://hlsonline.info-link.ru/streaming/365day/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",8 канал (Новосибирск)
+http://mhd.limehd.tv/p/-g331B3WeL49FmaFKZ71ew,1564577277/streaming/8channelnsk/324/copy/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",Amedia 1
+http://hlsonline.info-link.ru/streaming/a1/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",Amedia 2
+http://hlsonline.info-link.ru/streaming/a2/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Animal planet
+http://hlsonline.info-link.ru/streaming/animalplanet/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Animal planet HD
+http://hlsonline.info-link.ru/streaming/animalhd/324/hd/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",DTX
+http://hlsonline.info-link.ru/streaming/world/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Discovery channel
+http://hlsonline.info-link.ru/streaming/discovery/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Discovery channel HD
+http://hlsonline.info-link.ru/streaming/discoveryhd/324/hd/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Discovery science
+http://hlsonline.info-link.ru/streaming/science/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Eurosport 1 HD
+http://hlsonline.info-link.ru/streaming/eurosport1hd/324/hd/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",Fox HD
+http://hlsonline.info-link.ru/streaming/foxhd/324/hd/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",Fox life HD
+http://hlsonline.info-link.ru/streaming/foxlifehd/324/hd/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Id investigation discovery
+http://hlsonline.info-link.ru/streaming/idxtra/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Nat Geo Wild HD
+http://hlsonline.info-link.ru/streaming/natgeowildhd/324/hd/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",National Geographic HD
+http://hlsonline.info-link.ru/streaming/natgeohd/324/hd/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",Ocean TV
+http://mhd.limehd.tv/p/UEOqmnaI4vGuTMmcDCOrQQ,1564577276/streaming/oceantv/324/variable.m3u8
+#EXTINF:-1 group-title="Фильмы",Sony turbo
+http://hlsonline.info-link.ru/streaming/sonyturbo/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",TV1000
+http://hlsonline.info-link.ru/streaming/tv1000/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",TV1000 action
+http://hlsonline.info-link.ru/streaming/tv1000act/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",TV1000 русское кино
+http://hlsonline.info-link.ru/streaming/tv1000ru/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Travel+Adventure HD
+http://hlsonline.info-link.ru/streaming/travelhd/324/hd/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Zooпарк
+http://hlsonline.info-link.ru/streaming/zoopark/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Мужские",Авто плюс
+http://hlsonline.info-link.ru/streaming/avtoplus/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Мужские",Авто24
+http://hlsonline.info-link.ru/streaming/avto24/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Большая Азия
+http://mhd.limehd.tv/p/9xCTI2FXWiQLzyJ5mGjMsA,1564577276/streaming/bigasia/324/variable.m3u8
+#EXTINF:-1 group-title="Познавательные",В мире животных HD
+http://hlsonline.info-link.ru/streaming/animalshd/324/hd/playlist.m3u8
+#EXTINF:-1 group-title="Мужские",Диалоги о рыбалке
+http://mhd.limehd.tv/p/TRhTW_3m7pyMTXiUPDTgvg,1564577276/streaming/oribalke/324/variable.m3u8
+#EXTINF:-1 group-title="Новостные",Дождь
+http://hlsonline.info-link.ru/streaming/dojd/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",Дом кино
+http://hlsonline.info-link.ru/streaming/domkino/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Домашние животные
+http://hlsonline.info-link.ru/streaming/homejivotnie/324/vh1/playlist.m3u8
+#EXTINF:-1 group-title="Центральные",Домашний
+http://mhd.limehd.tv/p/aro6Aa-cZ8QXAqefqtxmTA,1564577276/streaming/domashniy/324/variable.m3u8
+#EXTINF:-1 group-title="Фильмы",Дорама
+http://hlsonline.info-link.ru/streaming/dorama/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Мужские",Драйв
+http://hlsonline.info-link.ru/streaming/drive/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",Еврокино
+http://hlsonline.info-link.ru/streaming/eurokino/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Новостные",Евроновости
+http://mhd.limehd.tv/p/dcxOzKekLWKiNKdKTSivkg,1564577276/streaming/euronews/324/variable.m3u8
+#EXTINF:-1 group-title="Познавательные",Еда
+http://hlsonline.info-link.ru/streaming/eda/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Еда премиум HD
+http://hlsonline.info-link.ru/streaming/edahd/324/hd/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Загородный
+http://hlsonline.info-link.ru/streaming/country/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Центральные",Звезда
+http://mhd.limehd.tv/p/pO8WBc1MtfZvV-6gobPC-g,1564577276/streaming/zvezda/324/variable.m3u8
+#EXTINF:-1 group-title="Познавательные",Зоо ТВ
+http://hlsonline.info-link.ru/streaming/zoo/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Без",ИТВ (Крым)
+http://mhd.limehd.tv/p/I7FVdt6gINUK-7HTRtQ9Gw,1564577277/streaming/itv/324/copy/playlist.m3u8
+#EXTINF:-1 group-title="Новостные",Известия
+http://mhd.limehd.tv/p/Kf6kyejdgky-NE04nGaBjw,1564577276/streaming/izvestia/324/variable.m3u8
+#EXTINF:-1 group-title="Фильмы",Иллюзион +
+http://hlsonline.info-link.ru/streaming/illuzionplus/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",Индийское кино
+http://hlsonline.info-link.ru/streaming/india/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",История
+http://hlsonline.info-link.ru/streaming/istoria/324/vh1/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Катунь-24 (Барнаул)
+http://mhd.limehd.tv/p/mo9uHSUbgbbstdfmuRVi7w,1564577277/streaming/katun24/324/variable.m3u8
+#EXTINF:-1 group-title="Фильмы",Кино тв
+http://hlsonline.info-link.ru/streaming/kinotv/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",Кинокомедия
+http://hlsonline.info-link.ru/streaming/kinocomedia/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",Киномикс
+http://hlsonline.info-link.ru/streaming/kinomix/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",Киносат
+http://hlsonline.info-link.ru/streaming/kinosat/324/vh1/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",Киносерия
+http://hlsonline.info-link.ru/streaming/kinoseria/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",Классика кино
+http://strm.yandex.ru/kal/kinoclassic/kinoclassic0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Спорт",Конный Мир
+http://mhd.limehd.tv/p/HGBcgvdctylxTOTsFO2sjw,1564577276/streaming/konniy/324/variable.m3u8
+#EXTINF:-1 group-title="Новостные",Крик ТВ
+http://mhd.limehd.tv/p/gfiyQvnjpimGWeF0qEJopg,1564577276/streaming/rictv/324/variable.m3u8
+#EXTINF:-1 group-title="Региональные",Крым 24
+http://mhd.limehd.tv/p/MlPRSnmYmmdSodYo6yiw1w,1564577277/streaming/crimea24/324/variable.m3u8
+#EXTINF:-1 group-title="Познавательные",Кухня ТВ
+http://hlsonline.info-link.ru/streaming/kuhnya/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Центральные",МИР
+http://mhd.limehd.tv/p/nnRfs9dRlYdlUL3C9tcSww,1564577276/streaming/mir/324/variable.m3u8
+#EXTINF:-1 group-title="Центральные",МИР-24
+http://mhd.limehd.tv/p/5djuO5V8z10jFrwGEoAznw,1564577276/streaming/mir24/324/variable.m3u8
+#EXTINF:-1 group-title="Спорт",Матч!
+http://mhd.limehd.tv/p/CWME2FKRWfpRli-nzwAL2Q,1564577276/streaming/matchott/324/variable.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! HD
+http://hlsonline.info-link.ru/streaming/matchhd/324/hd/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! арена
+http://hlsonline.info-link.ru/streaming/match.arena/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! игра
+http://hlsonline.info-link.ru/streaming/match.igra/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! премьер
+http://hlsonline.info-link.ru/streaming/nashfootbal/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! премьер HD
+http://hlsonline.info-link.ru/streaming/nashfootbalhd/324/hd/playlist.m3u8
+#EXTINF:-1 group-title="Центральные",Мир premium
+http://hlsonline.info-link.ru/streaming/mirhd/324/hd/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Мир Увлечений
+http://mhd.limehd.tv/p/qnCTy0D1jEKZJq7alPh3oA,1564577276/streaming/hobbies/324/variable.m3u8
+#EXTINF:-1 group-title="Региональные",Москва 24
+http://mhd.limehd.tv/p/7TJtwOcvFV3Qjr6OKCUf4Q,1564577277/streaming/moscow24/324/variable.m3u8
+#EXTINF:-1 group-title="Познавательные",Моя планета
+http://hlsonline.info-link.ru/streaming/myplanet/324/vh1/playlist.m3u8
+#EXTINF:-1 group-title="Мужские",Мужской
+http://mhd.limehd.tv/p/wJ9Dhhz6tVuM-ian6fhL9A,1564577276/streaming/male/324/variable.m3u8
+#EXTINF:-1 group-title="Центральные",НТВ
+http://mhd.limehd.tv/p/ejOAKOp0u7IYzY5aZ1m_BQ,1564577276/streaming/ntvnn/324/variable.m3u8
+#EXTINF:-1 group-title="Фильмы",НТВ сериал
+http://hlsonline.info-link.ru/streaming/ntvserial/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",НТС (Крым)
+http://mhd.limehd.tv/p/A3EZUhBkq8gL51OOPudx5Q,1564577277/streaming/nts-tv/324/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Наука
+http://hlsonline.info-link.ru/streaming/nauka/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Наша тема
+http://hlsonline.info-link.ru/streaming/mytheme/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",Наше новое кино
+http://hlsonline.info-link.ru/streaming/nashe_n_kino/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",Нтв право
+http://hlsonline.info-link.ru/streaming/ntvpravo/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",Нтв стиль
+http://hlsonline.info-link.ru/streaming/ntvstyle/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",ОТВ 24 (Екатеринбург)
+http://mhd.limehd.tv/p/bdIkBzJcwv_iBvDxsjwxbw,1564577277/streaming/otv24/324/variable.m3u8
+#EXTINF:-1 group-title="Региональные",ОТВ Екатеринбург
+http://mhd.limehd.tv/p/P6akTREAcw8tnBuqCRT2xQ,1564577277/streaming/otvekb/324/variable.m3u8
+#EXTINF:-1 group-title="Центральные",ОТР
+http://mhd.limehd.tv/p/iuyUg8hrL_Uz49_6oj0Wqg,1564577276/streaming/otr/324/variable.m3u8
+#EXTINF:-1 group-title="Региональные",ОТС Новосибирск
+http://mhd.limehd.tv/p/3gRfxbYl7CCSaIKJqEYetg,1564577277/streaming/otsnovnosib/324/variable.m3u8
+#EXTINF:-1 group-title="Мужские",Оружие
+http://hlsonline.info-link.ru/streaming/orujie/324/vh1/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Открытый мир
+http://mhd.limehd.tv/p/gUDy8REcvn_VxYRc4oBcSQ,1564577276/streaming/openmir/324/variable.m3u8
+#EXTINF:-1 group-title="Мужские",Охота и Рыбалка
+http://hlsonline.info-link.ru/streaming/ohota_i_ribalka/324/vh1/playlist.m3u8
+#EXTINF:-1 group-title="Мужские",Охотник и Рыболов
+http://hlsonline.info-link.ru/streaming/ohotnik/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Мужские",Охотник и рыболов HD
+http://hlsonline.info-link.ru/streaming/ohotnikhd/324/hd/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Первый Вегетарианский
+http://mhd.limehd.tv/p/hb26e-jnZsKoOtRIMjUSBw,1564577276/streaming/firstvegan/324/variable.m3u8
+#EXTINF:-1 group-title="Региональные",Первый Крымский
+http://mhd.limehd.tv/p/o9DK4ExRSgmnNK1ka9TSHw,1564577277/streaming/1crimea/324/variable.m3u8
+#EXTINF:-1 group-title="Центральные",Первый канал HD
+http://hlsonline.info-link.ru/streaming/1kanalhd/324/hd/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Пес и Ко
+http://mhd.limehd.tv/p/qZZpIYGHJLHy027hNemyww,1564577276/streaming/pesiko/324/variable.m3u8
+#EXTINF:-1 group-title="Познавательные",Планета HD
+http://hlsonline.info-link.ru/streaming/planethd/324/hd/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Приключения HD
+http://hlsonline.info-link.ru/streaming/adventurehd/324/hd/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",Пятница!
+http://mhd.limehd.tv/p/zPFReFY3QcZ0RjLWEF9_QA,1564577276/streaming/pyatnicaott/324/variable.m3u8
+#EXTINF:-1 group-title="Центральные",Пятый канал
+http://mhd.limehd.tv/p/wCuxNmQerqBidDmpCglz7w,1564577276/streaming/5kanalott/324/variable.m3u8
+#EXTINF:-1 group-title="Новостные",РБК
+http://mhd.limehd.tv/p/CCOPL3L0qRlITgtM7lUurA,1564577276/streaming/rbk/324/variable.m3u8
+#EXTINF:-1 group-title="Центральные",РЕН ТВ
+http://mhd.limehd.tv/p/CedoZUqbY1akWVprfQAPIA,1564577276/streaming/rentvnn/324/variable.m3u8
+#EXTINF:-1 group-title="Фильмы",Родное кино
+http://hlsonline.info-link.ru/streaming/rodnoe/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Центральные",Россия 1
+http://mhd.limehd.tv/p/-iQ4kUL_TdLX4chRc6UB7w,1564577276/streaming/rossia1nn/324/variable.m3u8
+#EXTINF:-1 group-title="Центральные",Россия 1 HD
+http://hlsonline.info-link.ru/streaming/rossiahd/324/hd/playlist.m3u8
+#EXTINF:-1 group-title="Новостные",Россия 24
+http://mhd.limehd.tv/p/en2OEwMTrC9oy6UnrVcdjQ,1564577276/streaming/rossia24nn/324/variable.m3u8
+#EXTINF:-1 group-title="Фильмы",Русский бестселлер
+http://hlsonline.info-link.ru/streaming/bestseller/324/vh1/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",Русский детектив
+http://hlsonline.info-link.ru/streaming/detektiv/324/vh1/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",Русский иллюзион
+http://hlsonline.info-link.ru/streaming/rusilluzion/324/vh1/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",Русский роман
+http://hlsonline.info-link.ru/streaming/roman/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",СТРК (Сочи)
+http://sochi-strk.ru:1936/strk/strk.stream/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",СТС
+http://mhd.limehd.tv/p/qDTFWVMboJJOvU-J1C74hg,1564577276/streaming/stsnn/324/variable.m3u8
+#EXTINF:-1 group-title="Развлекательные",СТС-Love
+http://mhd.limehd.tv/p/E6jOs332bziq7WLYEtWjqQ,1564577276/streaming/stslove/324/variable.m3u8
+#EXTINF:-1 group-title="Фильмы",Советское кино
+http://mhd.limehd.tv/p/AYHxwqRbft7eVoXoBt8j8w,1564577276/streaming/sovietmovs/324/copy/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",Супер
+http://mhd.limehd.tv/p/a6xemPFr_6ODxG3qYrNbgg,1564577276/streaming/superott/324/variable.m3u8
+#EXTINF:-1 group-title="Центральные",ТВ Центр
+http://mhd.limehd.tv/p/6NPQ15mntb2OIkEghGz7EA,1564577276/streaming/tvcnn/324/variable.m3u8
+#EXTINF:-1 group-title="Фильмы",ТВ-3
+http://mhd.limehd.tv/p/kLQaS-r0RQk3X-lNZOdc2Q,1564577276/streaming/tv3ott/324/variable.m3u8
+#EXTINF:-1 group-title="Познавательные",ТНОМЕР
+http://mhd.limehd.tv/p/OmsLo7uiNgI7dhBFRB-v5A,1564577276/streaming/tnomer/324/variable.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТНТ
+http://mhd.limehd.tv/p/Z3t8BxvI3mVL7ZKy7tadqA,1564577276/streaming/tntott/324/variable.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТНТ4
+http://mhd.limehd.tv/p/CuRXCAhr_GxRfY3fBSPXQw,1564577276/streaming/tnt4ott/324/variable.m3u8
+#EXTINF:-1 group-title="Развлекательные",Тайна
+http://hlsonline.info-link.ru/streaming/taina/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Твой дом
+http://mhd.limehd.tv/p/vDgco9jsH9nZ36NfV4Krfg,1564577276/streaming/myhouse/324/variable.m3u8
+#EXTINF:-1 group-title="Познавательные",Телекафе
+http://hlsonline.info-link.ru/streaming/telekafe/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Телепутешествия
+http://hlsonline.info-link.ru/streaming/adventure/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Центральные",Точка ТВ
+http://mhd.limehd.tv/p/4mLFFFdByeTSkYIxY-P8pw,1564577276/streaming/tochka/324/variable.m3u8
+#EXTINF:-1 group-title="Познавательные",Усадьба
+http://hlsonline.info-link.ru/streaming/usadba/324/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Успех
+http://mhd.limehd.tv/p/PYWwH2n7RGwB0NtGMvo6Ig,1564577276/streaming/uspeh/324/variable.m3u8
+#EXTINF:-1 group-title="Фильмы",Феникс+ Кино
+http://mhd.limehd.tv/p/FKB3q8FLmPCV5GPGnrW8dw,1564577277/streaming/fenixkino/324/variable.m3u8
+#EXTINF:-1 group-title="Центральные",Центральное ТВ
+http://mhd.limehd.tv/p/4FDF-6n81ShRB-_C_vJX-A,1564577277/streaming/centrtv/324/variable.m3u8
+#EXTINF:-1 group-title="Развлекательные",Че
+http://mhd.limehd.tv/p/ml0SwJ0Hk1POE69M_0MkxA,1564577276/streaming/che/324/variable.m3u8
+#EXTINF:-1 group-title="Познавательные",Эврика HD
+http://hlsonline.info-link.ru/streaming/eurekahd/324/hd/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",Ю
+http://mhd.limehd.tv/p/DA_Kjz2_AwNse8rYgnRAsQ,1564577276/streaming/channelu/324/variable.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="https://iptvx.one/icn/disney_channel.png",Disney Channel
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Детские" tvg-logo="https://iptvx.one/icn/disney_channel.png",Disney Channel (+4)
+http://rt-sib-bul-htlive-lb.cdn.ngenix.net/hls/CH_R02_DISNEYCHANNEL/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Детские" tvg-logo="https://iptvx.one/icn/disney_channel.png",Disney Channel (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Детские" tvg-logo="https://iptvx.one/icn/karusel.png",Карусель
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Детские" tvg-logo="https://iptvx.one/icn/karusel.png",Карусель (+3)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Детские" tvg-logo="https://iptvx.one/icn/karusel.png",Карусель (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+
+
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://tvoetv.online/img/ch_icons/muz_tv.png",Муз ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://tvoetv.online/img/ch_icons/muz_tv.png",Муз ТВ (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://tvoetv.online/img/ch_icons/muz_tv.png",Муз ТВ (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://tvoetv.online/img/ch_icons/muz_tv.png",Муз ТВ (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Новостные" tvg-logo="https://iptvx.one/icn/rossia24.png",Россия 24
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Познавательные",INSIGHT UHD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_INSIGHTUHD_HLS/variant.m3u8|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Познавательные",Univer TV
+http://a775797910-rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R04_UNIVER/playlist.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Познавательные",Рифей-ТВ
+http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://tvoetv.online/img/ch_icons/2x2.png",2x2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://tvoetv.online/img/ch_icons/2x2.png",2x2 (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://tvoetv.online/img/ch_icons/2x2.png",2x2 (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://tvoetv.online/img/ch_icons/2x2.png",2x2 (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Развлекательные",Russian Extreme Ultra
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/variant.m3u8|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Развлекательные",Пятница!
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Развлекательные",Пятница! (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Развлекательные",Пятница! (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Развлекательные",Пятница! (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/icn/sts.png",СТС
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/icn/sts.png",СТС (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/icn/sts.png",СТС (+4)
+http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_IRK_STS/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/icn/sts.png",СТС (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/icn/sts-love.png",СТС Love (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/icn/sts-love.png",СТС Love (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/icn/super.png",Супер
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/icn/super.png",Супер (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/icn/super.png",Супер (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/icn/super.png",Супер (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/icn/tnt.png",ТНТ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/icn/tnt.png",ТНТ (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/icn/tnt.png",ТНТ (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/icn/tnt.png",ТНТ (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/icn/tnt4.png",ТНТ4
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/icn/tnt4.png",ТНТ4 (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/icn/tnt4.png",ТНТ4 (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/icn/tnt4.png",ТНТ4 (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/icn/che.png",Че
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/icn/che.png",Че (+2)
+http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/icn/che.png",Че (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/icn/yu.png",Ю
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/icn/yu.png",Ю (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/icn/yu.png",Ю (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/icn/yu.png",Ю (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",11 канал (Пенза)
+http://rt-vlg-penza-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_PENZA_NASHDOM/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://tvoetv.online/img/ch_icons/12.jpg",12 канал (Омск)
+http://rt-sib-omsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",31 канал (Челябинск)
+http://rt-ural-chel-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",49 канал (Новосибирск)
+http://rt-sib-nsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",8 канал (Владивосток)
+http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Arirang
+http://s97982.cdn.ngenix.net/hls/CH_R02_OTT_DV_HVSK_OTTARIRANG/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",JTV
+http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_5TV_URALIFORM_PERM/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",KURGAN.RU (Курган)
+http://rt-ural-krg-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_KURRU_URAL_KRG/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",UGRA Travel (Сургут)
+http://rt-ural-sur-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",АТВ (Ставрополь)
+http://rt-sth-stavr-htlive-lb.cdn.ngenix.net/hls/CH_R01_ATV/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",АТВ-медиа (Улан-удэ)
+http://rt-sib-uude-htlive-lb.cdn.ngenix.net/hls/CH_R01_ATVMEDIA/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Аист (Иркутск)
+http://rt-sib-irk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AIST/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Альтес (Чита)
+http://rt-sib-chita-htlive-lb.cdn.ngenix.net/hls/CH_R01_ALTES/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Ариг Ус 24 (Улан-Удэ)
+http://rt-sib-uude-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_UUDE_ARIGUS/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Арктика 24
+http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ARKTIKA24_URAL_YNF/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Архыз 24
+http://rt-sth-cherks-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_STH_CHERKS_ARKHIZ241/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://tvoetv.online/img/ch_icons/astrahan_24.jpg",Астрахань 24
+http://rt-sth-astrh-htlive-lb.cdn.ngenix.net/hls/CH_R01_ASTRAKHAN24/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Афонтово (Красноярск)
+http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_AFONTOVO/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",БСТ (Уфа)
+http://rt-ural-chel-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Барс (Иваново)
+http://rt-ct-ivan-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_CT_IVAN_BARS/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Белгород 24
+http://rt-ct-belg-htlive-lb.cdn.ngenix.net/hls/CH_R02_BELGOROD24/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://tvoetv.online/img/ch_icons/bryanskaya_guberniya.png",Брянская губерния
+http://rt-ct-bryansk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_BRGRUBER/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",ВОТ тв (Липецк)
+http://rt-ct-lipetsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_VOTTV/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Ветта-24
+http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VETTA24_PERM/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Волга (Н. Новгород)
+http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_VOLGA/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Волгоград 1
+http://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Восток 24
+http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",ГТ-Ярославль
+http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_YARL_GTREG/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Городской (Брянск)
+http://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_GORODSKOY/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Губерния (Самара)
+http://rt-vlg-samara-htlive-lb.cdn.ngenix.net/hls/CH_R02_OTT_VLG_SAMARA_GUBERNIA/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Губерния 33 HD
+http://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VLAD_GUBERNIA33/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Губерния ТВ (Воронеж)
+http://rt-ct-vrzh-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_CT_VRZH_TVGUBERNIYA/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Губерния ТВ (Хабаровск)
+http://s97982.cdn.ngenix.net/hls/CH_R02_OTT_DV_HVSK_OTTGUBERNYA/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Девятка ТВ (Киров)
+http://rt-vlg-kirov-htlive-lb.cdn.ngenix.net/hls/CH_R02_OTT_VLG_KIROV_9TV/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Дзержинск ТВ (Дзержинск)
+http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/icn/don-24.png",Дон 24
+http://rt-sth-rd-htlive-lb.cdn.ngenix.net/hls/CH_R02_DON24/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Екатеринбург ТВ
+http://rt-ural-ekt-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_EKBTV_URAL_EKT/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Енисей (Красноярск)
+http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_ENISEY/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Заб.TV (Чита)
+http://rt-sib-chita-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_CHITA_ZABTV/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Зима (Чебоксары)
+http://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_CHR_ZIMA/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Инфо 24
+http://rt-ural-krg-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_SHINFO_URAL_KRG/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",КТВ-Город (Воронеж)
+http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VRZH_CTVGOROD/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Каскад (Калининград)
+http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Катунь 24 (Барнаул)
+http://rt-sib-bul-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_KATUN24/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Крит-ТВ
+http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_KRITTV/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Кубань 24 (Краснодар)
+http://rt-sth-krdar-htlive-lb.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Липецкое время (Липецк)
+http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_LIPETSK_LVREM/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",М1 (Самара)
+http://rt-vlg-samara-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SAMARA_M1/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",МИГ ТВ
+http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIG_TV_URAL_YNF/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Мир Белогорья (Белгород)
+http://rt-ct-belg-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_CT_BELG_MIR_BLG/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://tvoetv.online/img/ch_icons/moskva_24.png",Москва 24
+http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Мы и город (Красноуральск)
+http://rt-ural-ekt-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_MIGOR_URAL_KRASN/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",ННТВ (Нижний Новгород)
+http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R02_OTT_VLG_NN_NNTV/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Наши города (Когалым)
+http://rt-ural-sur-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_NGOR_URAL_SUR/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Ника ТВ (Калуга)
+http://rt-ct-kaluga-htlive-lb.cdn.ngenix.net/hls/CH_R01_NIKA/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Новый век
+http://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Ноябрьск 24
+http://rt-ural-nbk-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_NOY24_URAL_NOY/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",ОТВ (Владивосток)
+http://s91030.cdn.ngenix.net/hls/CH_R01_OTTOTV/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",ОТВ (Екатеринбург)
+http://rt-ural-ekt-htlive-lb.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://tvoetv.online/img/ch_icons/otv_chelyabinsk.jpg",ОТВ (Челябинск)
+http://rt-ural-chel-htlive-lb.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_CHEL/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",ОТВ-Сахалин (Южно-Сахалинск)
+http://s14553.cdn.ngenix.net/hls/CH_R01_OTT_DV_SLIN_OTV_SLIN_OTT/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",ОТС (Новосибирск)
+http://rt-sib-nsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Объектив 59 (Пермь)
+http://rt-ural-perm-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_OBJECTIVE59/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://tvoetv.online/img/ch_icons/os.png",Осетия Ирыстон HD
+http://rt-sth-vkaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VKAZ_IRISTON/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Первый Тульский
+http://rt-ct-tula-htlive-lb.cdn.ngenix.net/hls/CH_R01_PERV_TUL/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Первый Ярославский
+http://rt-ct-yarl-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://tvoetv.online/img/ch_icons/pervyy_gorodskoy_kirov.png",Первый городской (Киров)
+http://rt-vlg-kirov-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KIROV_PERVYGORODSKOY/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Первый городской (Омск)
+http://rt-sib-omsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_1GORODSKOY/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Первый областной (Орел)
+http://rt-ct-orl-htlive-lb.cdn.ngenix.net/hls/CH_R01_PERVOBL/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Продвижение (Омск)
+http://rt-sib-omsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_PRODVIZHENIE/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Продвижение СЭТ (Хабаровск)
+http://s97982.cdn.ngenix.net/hls/CH_R02_OTTS3TTV/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",РИМ (Каменск-Уральский)
+http://rt-ural-ekt-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_RIM_URAL_KURAL/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",РТС (Хакасия)
+http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_ABAKAN_RTS/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Репортер 73 (Ульяновск)
+http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Ростов-папа (Ростов)
+http://rt-sth-rd-htlive-lb.cdn.ngenix.net/hls/CH_R01_ROSTOVPAPA/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",С1 (Сургут)
+http://rt-ural-sur-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_C1_URAL_SUR/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",СТВ-Байкал (Улан-Удэ)
+http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_UUDE_STVBAYKAL/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Самара-ГИС
+http://rt-vlg-samara-htlive-lb.cdn.ngenix.net/hls/CH_R02_OTT_VLG_SAMARA_SAMARAGIS/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Саратов 24
+http://rt-vlg-saratov-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_VLG_SARATOV_SARATOV24/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Саха (Якутск)
+http://s34351.cdn.ngenix.net/hls/CH_R03_OTT_DV_YKT_NVC_OTT/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://tvoetv.online/img/ch_icons/svoe_tv_stavropol.png",Своё ТВ (Ставрополь)
+http://rt-sth-stavr-htlive-lb.cdn.ngenix.net/hls/CH_R03_STV-PLUS/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Селенга ТВ (Улан-Удэ)
+http://rt-sib-uude-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_UUDE_SELENGA/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Скат 24 (Самара)
+http://rt-vlg-samara-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SAMARA_SKAT24/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://online-red.com/images/tv/surgut-24.png",Сургут 24
+http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SURGUT24/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",ТВ-ИН HD
+http://a3569457554-rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/playlist.m3u8?version2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",ТК Центр Красноярск
+http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_CENTRKRSN/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",ТКР (Рязань)
+http://rt-ct-ryaz-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_CT_RYAZ_TKP/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://tvoetv.online/img/ch_icons/tnv_planeta.jpg",ТНВ-Планета
+http://rt-ural-nbk-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_TNV_PLANETA_URAL/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://tvoetv.online/img/ch_icons/tnv_tatarstan.jpg",ТНВ-Татарстан
+http://a775797930-rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/playlist.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://pp.userapi.com/c824501/v824501893/bd516/g7a1NExNhC4.jpg?ava=1",Тагил ТВ
+http://rt-ural-ekt-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_TAGILTV_URAL_TAG/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Татарстан 24
+http://a775797930-rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R02_EFIR24/playlist.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://telebegun.ru/uploads/channels/01cc5bc957efd2feb790eec1adf12867.png",Тверской Проспект - Регион
+http://rt-ct-tver-htlive-lb.cdn.ngenix.net/hls/CH_R01_TVERPROSP/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://yt3.ggpht.com/a-/AN66SAzeYR98GWoMXM6rmMF95w2q1V9tUbnLMlaR9Q=s160-mo-c-c0xffffffff-rj-k-no",Тивиком (Улан-Удэ)
+http://rt-sib-uude-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_UUDE_TIVICOM/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://tvoetv.online/img/ch_icons/tomskoe_vremya.jpg",Томское время
+http://rt-sib-tomsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_TOMSK_TOMSKVREMIA/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Тюменское время
+http://rt-ural-tum-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_TUMVR_URAL_TUM/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Хамдан (Элиста)
+http://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ELISTA_HAMDAN/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Чаваш Ен (Чебоксары)
+http://rt-vlg-chr-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_VLG_CHR_NATIONALTV/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/icn/che.png",Че (+4)
+http://rt-sib-kem-htlive-lb.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Эхо ТВ 24 (Новоуральск)
+http://rt-ural-ekt-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_ECHOTV/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",ЮТВ (Чебоксары)
+http://rt-vlg-chr-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_VLG_CHR_UTV/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Югра (Тюмень)
+http://rt-ural-tum-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_UGRA_URAL_TUM/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Юрган (Сыктывкар)
+http://rt-nw-komi-htlive-lb.cdn.ngenix.net/hls/CH_R01_YURGAN/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные",Якутия 24
+http://s34351.cdn.ngenix.net/hls/CH_R03_OTT_DV_YKT_SAHA/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://tvoetv.online/img/ch_icons/yamal_region.jpg",Ямал Регион
+http://rt-ural-nbk-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Религиозные" tvg-logo="https://tvoetv.online/img/ch_icons/spas_tv.png",Спас
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://tvoetv.online/img/ch_icons/match_tv.png",Матч! ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Фильмы",Ultra HD Cinema
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Фильмы",Москва. Доверие
+http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://tvoetv.online/img/ch_icons/tv_3.png",ТВ 3
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://tvoetv.online/img/ch_icons/tv_3.png",ТВ 3 (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://tvoetv.online/img/ch_icons/tv_3.png",ТВ 3 (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://tvoetv.online/img/ch_icons/tv_3.png",ТВ 3 (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/domashny.png",Домашний
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/domashny.png",Домашний (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/domashny.png",Домашний (+4)
+http://rt-sib-bul-htlive-lb.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/domashny.png",Домашний (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/zvezda.png",Звезда
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/zvezda.png",Звезда (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/zvezda.png",Звезда (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/zvezda.png",Звезда (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/mir.png",Мир
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/mir.png",Мир (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/mir.png",Мир (+4)
+http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_MIR/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/mir.png",Мир (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/ntv-white.png",НТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/ntv-white.png",НТВ (+1)
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/ntv-white.png",НТВ (+2)
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NTV_URAL_EKT/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/ntv-white.png",НТВ (+4)
+http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_BUL_NTV/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/ntv-white.png",НТВ (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/otr_ru.png",ОТР
+http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/pervyj.png",Первый канал
+http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_YARL_1TV/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/pervyj.png",Первый канал (+1)
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/pervyj.png",Первый канал (+2)
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/pervyj.png",Первый канал (+3)
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/pervyj.png",Первый канал (+4)
+http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_BUL_1TV/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/pervyj.png",Первый канал (+5)
+http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_IRK_1TV/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/pervyj.png",Первый канал (+6)
+http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/pervyj.png",Первый канал (+8)
+http://s14553.cdn.ngenix.net/hls/CH_R03_OTT_DV_SLIN_1TV_SLIN/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/pervyj.png",Первый канал (-1)
+http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NW_KLGR_1TV/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/5kanal-ru.png",Пятый канал
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/5kanal-ru.png",Пятый канал (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/5kanal-ru.png",Пятый канал (+4)
+http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_BUL_5TV/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/5kanal-ru.png",Пятый канал (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ (+4)
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://tvoetv.online/img/ch_icons/rossiya_1.png",Россия 1
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://tvoetv.online/img/ch_icons/rossiya_1.png",Россия 1 (+1)
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://tvoetv.online/img/ch_icons/rossiya_1.png",Россия 1 (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://tvoetv.online/img/ch_icons/rossiya_1.png",Россия 1 (+3)
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://tvoetv.online/img/ch_icons/rossiya_1.png",Россия 1 (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://tvoetv.online/img/ch_icons/rossiya_1.png",Россия 1 (+5)
+http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_IRK_ROSSIA1/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://tvoetv.online/img/ch_icons/rossiya_1.png",Россия 1 (+6)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://tvoetv.online/img/ch_icons/rossiya_1.png",Россия 1 (+7)
+http://s91030.cdn.ngenix.net/hls/CH_R04_OTT_DV_VLD_ROSSIA1_OTT/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://tvoetv.online/img/ch_icons/rossiya_1.png",Россия 1 (+8)
+http://s14553.cdn.ngenix.net/hls/CH_R04_OTT_DV_SLIN_ROSSIA1_SLIN/variant.m3u8|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://tvoetv.online/img/ch_icons/rossiya_1.png",Россия 1 (+9)
+http://s14131.cdn.ngenix.net/hls/CH_R04_OTT_DV_KAM_ROSSIA1_PKAM_OTT/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://tvoetv.online/img/ch_icons/rossiya_1.png",Россия 1 (-1)
+http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://tvoetv.online/img/ch_icons/rossiya_k.png",Россия К
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://tvoetv.online/img/ch_icons/rossiya_k.png",Россия К (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://tvoetv.online/img/ch_icons/rossiya_k.png",Россия К (+4)
+http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_BUL_ROSSIAK/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://tvoetv.online/img/ch_icons/rossiya_k.png",Россия К (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/tvcentr.png",ТВ Центр
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/tvcentr.png",ТВ Центр (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/tvcentr.png",ТВ Центр (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://iptvx.one/icn/tvcentr.png",ТВ Центр (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/bw2000000/variant.m3u8?version=2|User-Agent="OnlineTvAppDroid"
+
+
+
+#EXTINF:-1 group-title="Новостные",24 (Телеканал новостей 24)
+https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b1328800.m3u8?stalker_key=TVRJeXxZV1JpWmpWaE56YzRNVGMxWldVM05UZGpNelJrTUdWaVlUUmxPVE15WW1NPQ%3D%3D
+#EXTINF:-1 group-title="Новостные",Euronews (RU)
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8?stalker_key=TVRJeXxZV1JpWmpWaE56YzRNVGMxWldVM05UZGpNelJrTUdWaVlUUmxPVE15WW1NPQ%3D%3D
+
+
+
+
+
+#EXTINF:-1 group-title="другие каналы" ,1 Крым HD
 http://31.40.128.20/hls/021_krim_1.m3u8
 #EXTINF:-1,1 Республиканский
 http://ott.inmart.tv:8081/18/index.m3u8
