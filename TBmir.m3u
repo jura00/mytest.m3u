@@ -5,6 +5,15 @@ https://www.bilder-upload.eu/thumb/6da1cd-1577101217.png
 
 
 
+#EXTINF:-1,TOP: CINEMA HD
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://topchantv.net:3456/promotest/Promotest/1611
+
+#EXTINF:-1,TOP: MIX
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://topchantv.net:3456/promotest/Promotest/12597
+
+
 
 #EXTINF:-1,Твоё ТВ HD
 #EXTVLCOPT:http-user-agent=smartlabs
