@@ -3,8 +3,6 @@
 #EXTINF:-1 tvg-logo="https://www.bilder-upload.eu/thumb/6323de-1579539270.png",INFO_Update_11.02.2021
 https://www.bilder-upload.eu/thumb/6da1cd-1577101217.png
 
-
-
 #EXTINF:-1,TOP: CINEMA HD
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://topchantv.net:3456/promotest/Promotest/1611
@@ -347,9 +345,7 @@ http://hls.goodgame.ru/hls/33226.m3u8
 
 
 #EXTINF:-1,Nickelodeon HD
-#EXTINF:-1 tvg-id="nickelodeon-hd" tvg-name="Nickelodeon HD" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/01/98ae584c82788a5d6de546dd1413f7e7.jpg" group-title="Детские",Nickelodeon HD
-http://91.216.22.157:8080/nickhdtranscoder/index.m3u8
-
+#EXTVLCOPT:http-user-agent=smartlabs
 http://91.216.22.157:8080/nickhdtranscoder/index.m3u8
 
 
