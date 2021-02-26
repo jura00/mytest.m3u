@@ -1,28 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.bilder-upload.eu/thumb/6323de-1579539270.png",INFO_Update_15.02.2021
+#EXTINF:-1 tvg-logo="https://www.bilder-upload.eu/thumb/6323de-1579539270.png",INFO_Update_26.02.2021
 https://www.bilder-upload.eu/thumb/6da1cd-1577101217.png
 
-#EXTINF:-1,TOP: CINEMA HD
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://topchantv.net:3456/promotest/Promotest/1611
-
-#EXTINF:-1,TOP: MIX
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://topchantv.net:3456/promotest/Promotest/12597
 
 
-#EXTINF:0,TOP: USSR
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://topchantv.net:3456/promotest/Promotest/6641
-
-
-
-
-
-#EXTINF:-1,Твоё ТВ HD
-#EXTVLCOPT:http-user-agent=smartlabs
-http://streaming-elbrus.tk/tvoetv/video.m3u8
 
 #EXTINF:-1,Суббота
 #EXTVLCOPT:http-user-agent=smartlabs
@@ -33,46 +15,6 @@ http://31.210.208.168:8080/super/index.m3u8
 #EXTVLCOPT:http-user-agent=smartlabs
 http://195.49.206.244:90/Evrokino/index.m3u8
 
-
-
-
-
-#EXTINF:-1,Канал 1
-https://5656.ga/ch1.m3u8
-#EXTINF:-1,Канал 2
-https://5656.ga/ch2.m3u8
-#EXTINF:-1,Канал 3
-https://5656.ga/ch3.m3u8
-#EXTINF:-1,Канал 4
-https://5656.ga/ch4.m3u8
-#EXTINF:-1,Канал 5
-https://5656.ga/ch5.m3u8
-#EXTINF:-1,Канал 6
-https://5656.ga/ch6.m3u8
-#EXTINF:-1,Канал 7
-https://5656.ga/ch7.m3u8
-#EXTINF:-1,Канал 8
-https://5656.ga/ch8.m3u8
-#EXTINF:-1,Канал 9
-https://5656.ga/ch9.m3u8
-#EXTINF:-1,Канал 10
-https://5656.ga/ch10.m3u8
-#EXTINF:-1,Канал 11
-https://5656.ga/ch11.m3u8
-#EXTINF:-1,Канал 12
-https://5656.ga/ch12.m3u8
-#EXTINF:-1,Канал 13
-https://5656.ga/ch13.m3u8
-#EXTINF:-1,Канал 14
-https://5656.ga/ch14.m3u8
-#EXTINF:-1,Канал 15
-https://5656.ga/ch15.m3u8
-#EXTINF:-1,Канал 16
-https://5656.ga/ch16.m3u8
-#EXTINF:-1,Канал 17
-https://5656.ga/ch17.m3u8
-#EXTINF:-1,Канал 18
-https://5656.ga/ch18.m3u8
 
 
 
@@ -195,6 +137,11 @@ http://ott-cdn.ucom.am/s45/04.m3u8
 #EXTVLCOPT:http-user-agent=smartlabs
 https://edge04.beetv.kz/btv/SWM/A2/A2_576p_2000kbps.m3u8
 
+#EXTINF:-1,Amedia 2 (резерв)
+#EXTVLCOPT:http-user-agent=smartlabs
+http://51.68.140.190:8081/tv/amedia2/playlist.m3u8
+
+
 
 #EXTINF:-1,A2
 #EXTVLCOPT:http-user-agent=smartlabs
@@ -239,9 +186,6 @@ http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
 
 
 
-#EXTINF:-1,Cartoon Network HD
-#EXTVLCOPT:http-user-agent=smartlabs
-http://23.111.81.228:1893/ch-106/video.m3u8?token=test
 
 
 
@@ -258,10 +202,6 @@ http://31.210.208.168:8080/cinema/index.m3u8
 #EXTINF:-1,Cinema (резерв)
 http://89.106.234.3:80/Cinema_38_39.m3u8
 
-
-#EXTINF:-1,Cinema Космос ТВ HD
-#EXTVLCOPT:http-user-agent=smartlabs
-http://213.184.238.59:6202
 
 
 
@@ -319,9 +259,6 @@ http://hls.goodgame.ru/hls/157239.m3u8
 http://31.210.208.168:8080/fan/index.m3u8
 
 
-#EXTINF:-1,FilmBox Arthouse
-#EXTVLCOPT:http-user-agent=smartlabs
-http://185.189.209.29/Filmbox_Arthouse_SD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1,Fight Box
@@ -380,17 +317,20 @@ http://stream2.hardlife.tv:8134/hls-live/hlsGS/_definst_/liveevent/gs.m3u8
 http://94.100.220.44:8080/HollywodHD/tracks-v1a1/mono.m3u8
 
 
+
+
 #EXTINF:-1,Investigation Discovery
 #EXTVLCOPT:http-user-agent=smartlabs
-http://23.111.81.228:1893/ch-204/video.m3u8?token=test
+http://109.200.130.124:7006/play/a010 
+
 #EXTINF:-1,Investigation Discovery HD
 #EXTVLCOPT:http-user-agent=smartlabs
 http://195.49.206.244:90/IDExtra/index.m3u8
 
 
-#EXTINF:-1,Investigation Discovery (резерв)
+#EXTINF:-1 ,Id Xtra
 #EXTVLCOPT:http-user-agent=smartlabs
-http://109.200.130.124:7006/play/a010 
+http://mfe.cliptv.az/dash/Investigation_Discovery_SD.ism/playlist.mpd
 
 
 
@@ -502,14 +442,24 @@ http://rtmp.api.rt.com/hls/rtdru.m3u8
 http://ott-cdn.ucom.am/s63/04.m3u8
 
 
-#EXTINF:-1,RUTV
+
+
+
+#EXTINF:-1,RUTV (480)
+#EXTVLCOPT:http-user-agent=smartlabs
+http://rut-v.gcdn.co/streams/1410_95/480n/index.m3u8
+
+#EXTINF:-1,RUTV (720)
+#EXTVLCOPT:http-user-agent=smartlabs
+http://rut-v.gcdn.co/streams/1410_95/720n/index.m3u8
+
+
+#EXTINF:-1,RUTV (1080)
 #EXTVLCOPT:http-user-agent=smartlabs
 http://rut-v.gcdn.co/streams/1410_95/1080n/index.m3u8
 
 
-#EXTINF:-1,Russian Music Box
-#EXTVLCOPT:http-user-agent=smartlabs
-http://89.189.191.250/239.211.211.85/stream.m3u8
+
 
 
 #EXTINF:-1,Sochi 24 HD
@@ -533,9 +483,6 @@ http://212.79.122.24:7009/sony_turbo
 #EXTINF:-1,Sony Channel
 #EXTVLCOPT:http-user-agent=smartlabs
 https://edge04.beetv.kz/btv/SWM/Sony/Sony_576p_2000kbps.m3u8
-#EXTINF:-1,Sony Channel HD
-#EXTVLCOPT:http-user-agent=smartlabs
-http://185.220.35.94:8080/SONY_TV/index.m3u8
 
 
 
@@ -561,9 +508,6 @@ http://0s.on2he3i.pfqw4zdfpaxhe5i.cmle.ru/kal/terra/terra0_169_720p.json/index-v
 
 
 
-#EXTINF: -1,Tiji
-#EXTVLCOPT:http-user-agent=smartlabs
-http://broadcasting.cdn.contentgm.com:8080/tiji/video.m3u8?token=8UjWeshNwq
 
 
 
@@ -592,9 +536,6 @@ http://193.176.179.38:8087/xxi/index.m3u8
 #EXTINF:-1,TV1000 Action
 #EXTVLCOPT:http-user-agent=smartlabs
 http://31.210.208.168:8080/tv1000_action/index.m3u8
-#EXTINF:-1,TV1000 Action CEE HD
-#EXTVLCOPT:http-user-agent=smartlabs
-http://91.237.40.215:31345/tv1000ac
 
 
 
@@ -1019,9 +960,6 @@ https://live.katun24.ru:8082/katun/katun/index.m3u8
 http://51.68.140.190:8081/tv/kvn-tv/playlist.m3u8
 
 
-#EXTINF:0,Кинозал - Рожденным в СССР
-#EXTVLCOPT:http-user-agent=smartlabs
-https://v2.catcast.tv/content/38377/index.m3u8
 
 
 #EXTINF:0,КИНО 1 INTERNATIONAL
@@ -1071,15 +1009,6 @@ https://v2.catcast.tv/content/38821/index.m3u8?872102883054
 #EXTVLCOPT:http-user-agent=smartlabs
 https://v2.catcast.tv/content/39161/index.m3u8
 
-#EXTINF:0, PARADOX HD
-#EXTVLCOPT:http-user-agent=smartlabs
-http://195.154.242.229:3000/telegram/premiere_group_chat/47349
-
-
-
-#EXTINF:-1,ХИТ CINEMA
-#EXTVLCOPT:http-user-agent=smartlabs
-https://v2.catcast.tv/content/39742/index.m3u8
 
 
 #EXTINF:-1,FILM TV HD
@@ -1091,9 +1020,6 @@ http://filmtv.zapto.org:8050/hls/stream/index.m3u8
 #EXTVLCOPT:http-user-agent=smartlabs
 https://v2.catcast.tv/content/38801/index.m3u8
 
-#EXTINF:-1,UZ-tv Фантастика HD
-#EXTVLCOPT:http-user-agent=smartlabs
-http://109.168.145.7:8090/fantastika_madia_uz/index.m3u8?token=872102883054
 
 
 #EXTINF:-1,Ужастик
@@ -1133,9 +1059,6 @@ https://hls.myvideocontent.ru/hls2/strtv/index.m3u8
 https://cdnhls.goodgame.ru/hls/180960.m3u8
 
 
-#EXTINF:-1,Кинозал (Фантастика)
-#EXTVLCOPT:http-user-agent=smartlabs
-https://v2.catcast.tv/content/38801/index.m3u8
 
 
 
@@ -1160,11 +1083,6 @@ http://51.195.44.53:8081/tv/rus-comedy/chunks.m3u8
 
 
 
-#EXTINF:0,Кинозал (Фильмы СССР)
-#EXTVLCOPT:http-user-agent=smartlabs
-https://bozztv.com/36bay2/gin/giniko_arjlover_2000kb_36bay2/index.m3u8
-
-
 #EXTINF:0,Кинозал (СССР2)
 #EXTVLCOPT:http-user-agent=smartlabs
 https://autopilot.catcast.tv/content/38821/index.m3u8
@@ -1174,9 +1092,6 @@ https://autopilot.catcast.tv/content/38821/index.m3u8
 
 
 
-#EXTINF:-1,Кинозал (мульт TV HD)
-#EXTVLCOPT:http-user-agent=smartlabs
-https://v2.catcast.tv/content/38144/index.m3u8
 
 
 
@@ -1244,13 +1159,6 @@ http://OTT-cdn.ucom.am/s46/04.m3u8
 
 
 
-#EXTINF:0,Кинозал (Мужское кино HD)
-#EXTVLCOPT:http-user-agent=smartlabs
-http://89.106.234.3:80/Mujskoe_kino_hd_34_35.m3u8
-
-#EXTINF:-1,Мужское кино
-#EXTVLCOPT:http-user-agent=smartlabs
-http://185.112.140.24:8888/muzhkino
 
 
 #EXTINF:-1,НСТ
@@ -1281,22 +1189,8 @@ https://s4.idata.uz/kinopremyera/index.m3u8
 #EXTINF:-1,Киномикс
 #EXTVLCOPT:http-user-agent=smartlabs
 http://77.246.100.90:8080/test/index.m3u8
-#EXTINF:-1,Киносемья
-#EXTVLCOPT:http-user-agent=smartlabs
-http://185.220.35.94:80/kinosemya/index.m3u8
 
-#EXTINF:-1,Кинокомедия
-#EXTVLCOPT:http-user-agent=smartlabs
-http://91.237.40.215:12343/kinocomedia
-#EXTINF:-1,Кинокомедия HD
-#EXTVLCOPT:http-user-agent=smartlabs
-http://23.111.81.228:1893/ch-63/video.m3u8?token=test
-#EXTINF:-1,Киносерия
-#EXTVLCOPT:http-user-agent=smartlabs
-http://91.237.40.215:12343/kinoseria
-#EXTINF:-1,Киносвидание
-#EXTVLCOPT:http-user-agent=smartlabs
-http://185.112.140.24:8888/kinosvidanie
+
 #EXTINF:-1,Киносвидание HD
 #EXTVLCOPT:http-user-agent=smartlabs
 http://94.154.83.88:10000/kinosvidanie
@@ -1396,19 +1290,6 @@ https://strm.yandex.ru/kal/lovedtv/lovedtv0_169_720p.json/index-v1-a1.m3u8?versi
 
 
 
-
-
-
-#EXTINF:-1,Маданият Тарых 
-#EXTVLCOPT:http-user-agent=smartlabs
-http://onlinetv.ktrk.kg:1935/live/myStream5/playlist.m3u8
-
-
-
-
-#EXTINF:0,Маша и Медведь
-#EXTVLCOPT:http-user-agent=smartlabs
-https://bozztv.com/36bay2/gin/giniko_mashaimedved_1000kb_36bay2/tracks-v1a1/mono.m3u8
 
 
 
@@ -1624,9 +1505,6 @@ http://91.192.168.251:8401
 
 
 
-#EXTINF:-1,НТВ Сериал
-#EXTVLCOPT:http-user-agent=smartlabs
-http://212.66.58.100:8000/play/a0z7
 
 
 
@@ -1770,9 +1648,6 @@ http://OTT-cdn.ucom.am/s47/04.m3u8
 http://45.145.32.15:20000/pobeda/video.m3u8
 
 
-#EXTINF:-1,Победа (резерв2)
-#EXTVLCOPT:http-user-agent=smartlabs
-http://89.106.234.3:80/Pobeda_36_37.m3u8
 
 
 
@@ -1848,6 +1723,10 @@ http://ott-cdn.ucom.am/s85/04.m3u8
 #EXTINF:-1,РенТВ (резерв)
 #EXTVLCOPT:http-user-agent=smartlabs
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
+
+#EXTINF:-1 ,Рен ТВ (резерв 2)
+http://uiptv.do.am/1ufc/102323759/playlist.m3u8
+
 
 
 #EXTINF:-1,РЕН ТВ HD
@@ -2030,10 +1909,6 @@ http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/sts/playlist.m3u8
 
 
 
-#EXTINF:-1,СТС Kids
-#EXTVLCOPT:http-user-agent=smartlabs
-http://185.189.209.29/CTC_Kids_SD/tracks-v1a1/mono.m3u8
-
 
 
 
@@ -2147,8 +2022,12 @@ http://62.32.67.187:1935/WEB_TBN/TBN.stream/playlist.m3u8
 
 
 
-
 #EXTINF:-1,ТВ-3
+#EXTVLCOPT:http-user-agent=smartlabs
+http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/tv3/playlist.m3u8
+
+
+#EXTINF:-1,ТВ-3 
 #EXTVLCOPT:http-user-agent=smartlabs
 http://iptv.media-ix.com:11375/15/index.m3u8
 #EXTINF:-1,ТВ-3 +4
@@ -2257,9 +2136,17 @@ http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
 #EXTVLCOPT:http-user-agent=smartlabs
 http://ott-cdn.ucom.am/s19/04.m3u8
 
-#EXTINF:-1,ТНТ
+#EXTINF:-1 ,ТНТ (резерв)
+http://uiptv.do.am/1ufc/106596187/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1,ТНТ +2?
 #EXTVLCOPT:http-user-agent=smartlabs
 http://iptv.media-ix.com:11375/19/index.m3u8
+
 
 
 #EXTINF:-1,ТНТ HD
@@ -2411,6 +2298,53 @@ http://dprtv.phoenix-dnr.ru/union
 
 
 
+#EXTINF:-1,Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1,Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1,Abu Dhabi Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+
+
+#EXTINF:-1,Abu Dhabi YAS
+https://admdn1ta.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+
+
+
+#EXTINF:-1,Bayern Munich TV
+http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8?@amarnettv.live
+
+
+
+
+#EXTINF:-1,BEIN SPORT Extra
+https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
+
+
+
+
+#EXTINF:-1,Edge Sports
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+
+
+
+#EXTINF:-1,ESPN U
+https://gma2.blab.email/espnu.m3u8
+
+
+
+
+#EXTINF:-1,Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+
+
+#EXTINF:-1,Fox Sport 1
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1,Fox Sport 2
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1,Fox Sport 3
+https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+
 
 
 #EXTINF:-1,Спорт 1
@@ -2466,6 +2400,8 @@ http://cars-and-stars-tv-hls1.cosmonova.net.ua/hls/cars-and-stars-tv_ua_hi/index
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 
 
+#EXTINF:-1,Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
 
 
 
@@ -2479,12 +2415,19 @@ https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/chunk
 https://ott.mobcrush.com/hls/0/ott.m3u8
 
 
+#EXTINF:-1,KIX HD
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 
 
 
 
 #EXTINF:-1,KOK Sport
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+
+
+
+#EXTINF:-1,Sky 2 HD
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 
 
 
@@ -2508,10 +2451,20 @@ http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3
 http://w4.mostvideo.tv/tv/ch1.m3u8
 
 
+#EXTINF:-1,One Golf
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
 
 #EXTINF:-1,PowerNet (webcamRadio)
 http://flussonic.powernet.com.ru:8080/telekanal_internet/index.m3u8
+
+
+
+#EXTINF:-1,PTV Sports
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
+
+
+
 
 
 #EXTINF:-1,Redcom TV (Хабаровск) (webcamRadio)
@@ -2519,9 +2472,25 @@ https://tvstreamer.redcom.ru/Redcams/index.m3u8
 
 
 
-#EXTINF:-1 ,Red Bull TV
+#EXTINF:-1,Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
+
+
+#EXTINF:-1,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+
+
+
+
+#EXTINF:-1,RACING.COM
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index.m3u8
+
+
+#EXTINF:-1,Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1,Tennis Channel+
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 
 
 
@@ -2532,6 +2501,15 @@ https://strm.yandex.ru/kal/weather_saint_petersburg/weather_saint_petersburg0.m3
 
 
 
+#EXTINF:-1,MLB
+http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20200612_1591985931073/1200K/1200_slide.m3u8
+
+
+#EXTINF:-1,UFC ESP
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/726
+
+
+
 
 
 #EXTINF:-1,The Weather Channel (USA)
@@ -2539,6 +2517,53 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
 #EXTINF:-1 ,Weather Nation
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,Канал 1
+https://5656.ga/ch1.m3u8
+#EXTINF:-1,Канал 2
+https://5656.ga/ch2.m3u8
+#EXTINF:-1,Канал 3
+https://5656.ga/ch3.m3u8
+#EXTINF:-1,Канал 4
+https://5656.ga/ch4.m3u8
+#EXTINF:-1,Канал 5
+https://5656.ga/ch5.m3u8
+#EXTINF:-1,Канал 6
+https://5656.ga/ch6.m3u8
+#EXTINF:-1,Канал 7
+https://5656.ga/ch7.m3u8
+#EXTINF:-1,Канал 8
+https://5656.ga/ch8.m3u8
+#EXTINF:-1,Канал 9
+https://5656.ga/ch9.m3u8
+#EXTINF:-1,Канал 10
+https://5656.ga/ch10.m3u8
+#EXTINF:-1,Канал 11
+https://5656.ga/ch11.m3u8
+#EXTINF:-1,Канал 12
+https://5656.ga/ch12.m3u8
+#EXTINF:-1,Канал 13
+https://5656.ga/ch13.m3u8
+#EXTINF:-1,Канал 14
+https://5656.ga/ch14.m3u8
+#EXTINF:-1,Канал 15
+https://5656.ga/ch15.m3u8
+#EXTINF:-1,Канал 16
+https://5656.ga/ch16.m3u8
+#EXTINF:-1,Канал 17
+https://5656.ga/ch17.m3u8
+#EXTINF:-1,Канал 18
+https://5656.ga/ch18.m3u8
+
+
 
 
 
