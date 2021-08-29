@@ -11,11 +11,17 @@ https://www.bilder-upload.eu/thumb/6da1cd-1577101217.png
 http://31.210.208.168:8080/super/index.m3u8
 
 
+#EXTINF:-1,Телестанция Мир
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+http://serv30.vintera.tv:8081/stanciya_mir/mir/playlist.m3u8
+
+
 #EXTINF:-1,Еврокино
-#EXTVLCOPT:http-user-agent=smartlabs
-http://195.49.206.244:90/Evrokino/index.m3u8
-
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://mfe.cliptv.az/dash/Evrokino_SD.ism/playlist.mpd
 
 
 
