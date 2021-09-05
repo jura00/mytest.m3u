@@ -1,14 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.bilder-upload.eu/thumb/6323de-1579539270.png",INFO_Update_26.02.2021
+#EXTINF:-1 tvg-logo="https://www.bilder-upload.eu/thumb/6323de-1579539270.png",INFO_Update_05.09.2021
 https://www.bilder-upload.eu/thumb/6da1cd-1577101217.png
 
 
+#EXTINF:-1,Суббота HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 
 
-#EXTINF:-1,Суббота
-#EXTVLCOPT:http-user-agent=smartlabs
-http://31.210.208.168:8080/super/index.m3u8
 
 
 #EXTINF:-1,Телестанция Мир
@@ -52,9 +52,10 @@ http://85.234.33.64/stream/c11.m3u8
 
 
 
-#EXTINF:-1,2x2
-#EXTVLCOPT:http-user-agent=smartlabs
-http://51.68.140.190:8081/tv/2x2/playlist.m3u8
+
+#EXTINF:-1,2x2 | 720P
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
 
 
 
@@ -62,11 +63,13 @@ http://51.68.140.190:8081/tv/2x2/playlist.m3u8
 
 
 
-
-#EXTINF:-1,360° Новости HD
-https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
 #EXTINF:-1,360° Подмосковье HD
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
+
+#EXTINF:-1,360 Новости HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+https://edge2-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/index.m3u8
+
 
 #EXTINF:-1 ,36O°
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/2.m3u8
@@ -112,6 +115,12 @@ https://sitv.ru/hls/s861024.m3u8
 
 
 
+#EXTINF:-1,10 Десятка HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+http://kuzbass1.ru:8082/10kanal/10kanal_720/playlist.m3u8
+
+
+
 #EXTINF:-1,AIVA HD
 #EXTVLCOPT:http-user-agent=smartlabs
 http://194.190.78.91:8080/aivaya/index.m3u8
@@ -122,29 +131,12 @@ http://194.190.78.91:8080/aivaya/index.m3u8
 
 
 
-#EXTINF:-1,AMC
-#EXTVLCOPT:http-user-agent=smartlabs
-http://46.39.155.122:80/amc/index.m3u8
-
-
-
-#EXTINF:-1,Amedia 1
-#EXTVLCOPT:http-user-agent=smartlabs
-http://cdn.nexttvnet.ru/hlsl/1/amedia_1/index.m3u8
 
 
 #EXTINF:0,A-Media 1
 #EXTVLCOPT:http-user-agent=smartlabs
 http://ott-cdn.ucom.am/s45/04.m3u8
 
-
-#EXTINF:-1,Amedia 2
-#EXTVLCOPT:http-user-agent=smartlabs
-https://edge04.beetv.kz/btv/SWM/A2/A2_576p_2000kbps.m3u8
-
-#EXTINF:-1,Amedia 2 (резерв)
-#EXTVLCOPT:http-user-agent=smartlabs
-http://51.68.140.190:8081/tv/amedia2/playlist.m3u8
 
 
 
@@ -161,16 +153,6 @@ http://ott-cdn.ucom.am/s64/04.m3u8
 
 
 
-
-#EXTINF:-1,Amedia Hit HD
-#EXTVLCOPT:http-user-agent=smartlabs
-http://212.79.122.24:7125/amedia_hit
-
-
-
-#EXTINF:-1,Animal Planet
-#EXTVLCOPT:http-user-agent=smartlabs
-http://51.195.44.53:8081/tv/animal-planet/playlist.m3u8
 
 
 
@@ -199,48 +181,10 @@ http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
 http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
 
 
-#EXTINF:-1,Cinema
-#EXTVLCOPT:http-user-agent=smartlabs
-http://31.210.208.168:8080/cinema/index.m3u8
-
-
-#EXTINF:-1,Cinema (резерв)
-http://89.106.234.3:80/Cinema_38_39.m3u8
-
-
-
-
-
-
-#EXTINF:-1,CGTN-Русский
-https://liveru.cgtn.com/cctv-r.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1,DaVinci Роccия
-#EXTVLCOPT:http-user-agent=smartlabs
-http://89.106.234.3:80/DaVinci_38_39.m3u8
-
-
-
-
-#EXTINF:-1,Disney
-#EXTVLCOPT:http-user-agent=smartlabs
-http://31.210.208.168:8080/disney/index.m3u8
-
-
-
-#EXTINF:-1,Discovery Channel
-#EXTVLCOPT:http-user-agent=smartlabs
-http://51.68.140.190:8081/tv/Discovery/playlist.m3u8
-
-#EXTINF:-1,Discovery Science
-#EXTVLCOPT:http-user-agent=smartlabs
-http://51.195.44.53:8081/tv/discovery-science/playlist.m3u8
+#EXTINF:0,Cinema
+http://46.34.209.242:80/btv/SWM/CINEMA/CINEMA_576p_2000kbps.m3u8
+#EXTINF:0,Cinema (sc.id-tv.kz)
+https://sc.id-tv.kz/Cinema_34_35.m3u8
 
 
 
@@ -250,49 +194,26 @@ http://51.195.44.53:8081/tv/discovery-science/playlist.m3u8
 
 
 
-#EXTINF:-1,EU Music
-#EXTVLCOPT:http-user-agent=smartlabs
-http://playlist.hmara.tv/4a8a78be/678f256496bc48b5d54a64b7611bebcddb16256c.m3u8
+
+#EXTINF:-1,Disney Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://mfe.cliptv.az/dash/Disney_SD.ism/playlist.mpd
+
+
 
 
 
 #EXTINF:-1,FAN
 #EXTVLCOPT:http-user-agent=smartlabs
 http://hls.goodgame.ru/hls/157239.m3u8
-#EXTINF:-1,FAN HD
-#EXTVLCOPT:http-user-agent=smartlabs
-http://31.210.208.168:8080/fan/index.m3u8
 
 
 
 
-#EXTINF:-1,Fight Box
-#EXTVLCOPT:http-user-agent=smartlabs
-http://ott-cdn.ucom.am/s86/04.m3u8
-
-
-
-
-
-
-
-#EXTINF:0,Food Network 
-#EXTVLCOPT:http-user-agent=smartlabs
-http://ott-cdn.ucom.am/s18/04.m3u8
-
-
-
-#EXTINF:-1,FOX HD
-#EXTVLCOPT:http-user-agent=smartlabs
-http://212.79.122.24:7147/fox_hd
-#EXTINF:-1,FOX Life
-#EXTVLCOPT:http-user-agent=smartlabs
-http://212.79.122.24:7052/atr
-#EXTINF:-1,FOX Life HD
-#EXTVLCOPT:http-user-agent=smartlabs
-http://cdn.nexttvnet.ru/hlsl/10/Fox_Life_HD/index.m3u8
-
-#EXTINF:-1,Fox Life (резерв)
+#EXTINF:-1,Fox Life
 #EXTVLCOPT:http-user-agent=smartlabs
 https://sireclipsfoxru-vh.akamaihd.net/i/mpx/FIC_SIRE_Fox/831/336/Sneak_Peek~~111704~12~21~en~~1_ru_42787397,100_mp4_video_1920x0_4016000_primary_audio_6,099_mp4_video_1280x0_2432000_primary_audio_5,098_mp4_video_1280x0_1800000_primary_audio_4,097_mp4_video_960x0_1200000_primary_audio_3,096_mp4_video_640x0_568000_primary_audio_2,095_mp4_video_480x0_400000_primary_audio_1,.mp4.csmil/master.m3u8
 
@@ -317,31 +238,12 @@ http://stream2.hardlife.tv:8134/hls-live/hlsGS/_definst_/liveevent/gs.m3u8
 
 
 
-#EXTINF:-1,Hollywood HD
-#EXTVLCOPT:http-user-agent=smartlabs
-http://94.100.220.44:8080/HollywodHD/tracks-v1a1/mono.m3u8
-
-
-
-
-#EXTINF:-1,Investigation Discovery
-#EXTVLCOPT:http-user-agent=smartlabs
-http://109.200.130.124:7006/play/a010 
-
-#EXTINF:-1,Investigation Discovery HD
-#EXTVLCOPT:http-user-agent=smartlabs
-http://195.49.206.244:90/IDExtra/index.m3u8
 
 
 #EXTINF:-1 ,Id Xtra
 #EXTVLCOPT:http-user-agent=smartlabs
 http://mfe.cliptv.az/dash/Investigation_Discovery_SD.ism/playlist.mpd
 
-
-
-#EXTINF:-1,Jim Jam
-#EXTVLCOPT:http-user-agent=smartlabs
-http://cdn.nexttvnet.ru/hlsl/10/JimJam/JimJam_3/index.m3u8?bw876483500620.m3u8
 
 
 
@@ -352,10 +254,6 @@ http://cdn.nexttvnet.ru/hlsl/10/JimJam/JimJam_3/index.m3u8?bw876483500620.m3u8
 http://cdn.universmotri.ru/live/smil:kfu.smil/chunklist_w1318465386_b3628000_slru.m3u8
 
 
-
-
-#EXTINF:-1,Kino24
-http://85.192.44.14/hls/Kino24Ru/playlist.m3u8
 
 
 
@@ -380,12 +278,6 @@ http://nano.teleservice.su:8080/hls/luxury.m3u8
 http://81.30.182.82:18092/hls/live.m3u8
 
 
-#EXTINF:-1,Nat Geo Wild
-#EXTVLCOPT:http-user-agent=smartlabs
-http://51.195.44.53:8081/tv/nat-geo-wild/playlist.m3u8
-#EXTINF:-1,National Geographic
-#EXTVLCOPT:http-user-agent=smartlabs
-http://147.135.210.90:8081/tv/national-geographic/playlist.m3u8
 
 
 
@@ -395,33 +287,9 @@ http://hls.goodgame.ru/hls/33226.m3u8
 
 
 
-#EXTINF:-1,Nickelodeon HD
-#EXTVLCOPT:http-user-agent=smartlabs
-http://91.216.22.157:8080/nickhdtranscoder/index.m3u8
-
-
-#EXTINF:-1,Nick Jr.
-#EXTVLCOPT:http-user-agent=smartlabs
-http://109.200.130.124:7006/play/a017
-
-
-#EXTINF:-1,O!
-#EXTVLCOPT:http-user-agent=smartlabs
-http://89.106.234.3:80/o_34_35.m3u8
 
 
 
-#EXTINF:-1,O!2
-https://strm.yandex.ru/kal/o2/o20_169_480p.json/index-v1-a1.m3u8
-
-
-
-#EXTINF:-1,Paramount Channel
-#EXTVLCOPT:http-user-agent=smartlabs
-http://212.79.122.24:7056/Paramount_Channel?utcstart=872102883054&version=2
-#EXTINF:-1,Paramount Comedy
-#EXTVLCOPT:http-user-agent=smartlabs
-http://212.79.122.24:7039/Paramount_Comedy?utcstart=872102883054&version=2
 
 
 
@@ -467,38 +335,8 @@ http://rut-v.gcdn.co/streams/1410_95/1080n/index.m3u8
 
 
 
-#EXTINF:-1,Sochi 24 HD
-http://serv30.vintera.tv:8081/sochi/maks24hd/playlist.m3u8
 #EXTINF:-1,Sochi Live HD
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-
-
-#EXTINF:-1,Sony scifi
-#EXTVLCOPT:http-user-agent=smartlabs
-http://91.192.168.242:9091
-
-#EXTINF:-1,Sony Sci-Fi (резерв)
-#EXTVLCOPT:http-user-agent=smartlabs
-http://212.79.122.24:7173/sony_sci-Fi
-
-
-#EXTINF:-1,Sony Turbo
-#EXTVLCOPT:http-user-agent=smartlabs
-http://212.79.122.24:7009/sony_turbo
-#EXTINF:-1,Sony Channel
-#EXTVLCOPT:http-user-agent=smartlabs
-https://edge04.beetv.kz/btv/SWM/Sony/Sony_576p_2000kbps.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1,Shot TV (Короткометражное кино)
-#EXTVLCOPT:http-user-agent=smartlabs
-http://31.210.208.168:8080/shottv/index.m3u8
-
 
 
 
@@ -515,12 +353,6 @@ http://0s.on2he3i.pfqw4zdfpaxhe5i.cmle.ru/kal/terra/terra0_169_720p.json/index-v
 
 
 
-
-
-
-#EXTINF:-1,Trash HD
-#EXTVLCOPT:http-user-agent=smartlabs
-http://cdn.nexttvnet.ru/hlsl/1/TrashHD/index.m3u8
 
 
 
@@ -588,9 +420,6 @@ http://cdn-01.bonus-tv.ru:8080/tvm_edge/tracks-v1a1/index.m3u8
 
 
 
-#EXTINF:-1,U.HD (ultotv)
-http://ultotv.ru:8888/live/uhd/playlist.m3u8
-
 
 
 
@@ -600,16 +429,6 @@ http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 
 
 
-
-#EXTINF:-1,VIVA Russia
-https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8
-
-
-
-
-
-#EXTINF:-1,Wif TV HD
-https://live-wif.cdnvideo.ru/hls/573b349878c5685204e10800/720p.m3u8
 
 
 
@@ -678,9 +497,6 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
 http://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v2a1/index.m3u8
 
 
-#EXTINF:-1,Афонтово (Красноярск)
-http://xstream.afontovo.ru/afontovo_ya.m3u8
-
 
 
 
@@ -705,8 +521,6 @@ http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
 http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
 
 
-#EXTINF:-1,Бобер
-http://89.106.234.4:80/bober_34_35.m3u8
 
 
 
@@ -729,9 +543,7 @@ http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 
 
 
-#EXTINF:-1,Вместе-РФ HD
-http://uiptv.do.am/1ufc/118056781/playlist.m3u8
-#EXTINF:-1,Вместе РФ HD (резерв)
+#EXTINF:-1,Вместе РФ HD
 http://cdn-01.bonus-tv.ru:8080/vmesterf/tracks-v1a1/index.m3u8
 
 
@@ -778,8 +590,6 @@ http://www.gtk.tv/hls/gtyar.m3u8
 
 
 
-#EXTINF:-1,Губерния 33 (Владимир)
-http://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8
 
 
 #EXTINF:-1,Губерния (Воронеж)
@@ -796,11 +606,6 @@ http://vimece.spbgut.ru:1935/mp/playlist-video/playlist.m3u8
 
 
 
-
-
-#EXTINF:-1,Дикий
-#EXTVLCOPT:http-user-agent=smartlabs
-http://212.79.122.24:7143/dikij
 
 
 
@@ -824,19 +629,6 @@ https://strm.yandex.ru/kal/dialogi/dialogi0_169_1080p.json/index-v1-a1.m3u8
 
 
 
-
-#EXTINF:0,Дом кино
-#EXTVLCOPT:http-user-agent=smartlabs
-http://cdn.nexttvnet.ru/hlsl/10/Dom_kino/Dom_kino_3/index.m3u8
-
-#EXTINF:0,Дом Кино (резерв)
-#EXTVLCOPT:http-user-agent=smartlabs
-http://178.163.60.244:4022/udp/234.0.0.219:2000
-
-
-#EXTINF:-1,Дом кино Премиум HD
-#EXTVLCOPT:http-user-agent=smartlabs
-http://cdn.nexttvnet.ru/hlsl/10/Dom_Kino_Premium_HD/index.m3u8
 
 
 
@@ -882,10 +674,6 @@ http://ott-cdn.ucom.am/s31/04.m3u8
 
 
 
-#EXTINF:-1,Запад 24
-http://vod.beeiptv.com:8081/Zapad24/zapad24/playlist.m3u8
-
-
 
 
 
@@ -895,13 +683,6 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1,Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 
-#EXTINF:-1,Звезда HD (резерв)
-#EXTVLCOPT:http-user-agent=smartlabs
-http://83.222.205.65:8080/zvezda/index.m3u8
-
-#EXTINF:-1,Звезда +4
-#EXTVLCOPT:http-user-agent=smartlabs
-http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/zvezda/playlist.m3u8
 
 
 
@@ -914,9 +695,6 @@ http://ott-cdn.ucom.am/s92/04.m3u8
 
 
 
-#EXTINF:-1,Иллюзион+
-#EXTVLCOPT:http-user-agent=smartlabs
-http://31.210.208.168:8080/illuzion_plus/index.m3u8
 
 
 
@@ -927,17 +705,12 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 
 
 
-#EXTINF:-1,ИНДИЙСКОЕ КИНО
-http://89.106.234.4:80/Indiiskoe_kino_34_35.m3u8
 
 
 #EXTINF:0,История 
 #EXTVLCOPT:http-user-agent=smartlabs
 http://ott-cdn.ucom.am/s40/04.m3u8
 
-#EXTINF:-1,История (резерв)
-#EXTVLCOPT:http-user-agent=smartlabs
-http://31.210.208.168:8080/istoriya/index.m3u8
 
 
 
@@ -956,8 +729,6 @@ http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
 http://serv30.vintera.tv:8081/kazahtv/stream_kz/playlist.m3u8
 
 
-#EXTINF:-1,Кавказ 24
-http://serv30.vintera.tv:8081/kavkaz24/kavkaz24_stream/playlist.m3u8
 
 
 
@@ -976,102 +747,12 @@ https://live-1.otcnet.ru/kaleidoskop/index.m3u8
 https://live.katun24.ru:8082/katun/katun/index.m3u8
 
 
-#EXTINF:-1,КВН ТВ
-#EXTVLCOPT:http-user-agent=smartlabs
-http://51.68.140.190:8081/tv/kvn-tv/playlist.m3u8
-
-
-
-
-#EXTINF:0,КИНО 1 INTERNATIONAL
-#EXTVLCOPT:http-user-agent=smartlabs
-https://v2.catcast.tv/content/38617/index.m3u8
-
-#EXTINF:0,Детское кино International
-#EXTVLCOPT:http-user-agent=smartlabs
-https://v2.catcast.tv/content/38720/index.m3u8
-
-#EXTINF:0,МультСказки
-#EXTVLCOPT:http-user-agent=smartlabs
-https://autopilot.catcast.tv/content/38850/index.m3u8
-
-#EXTINF:-1,В гостях у сказки
-#EXTVLCOPT:http-user-agent=smartlabs
-http://31.210.208.168:8080/v_gostyah_u_skazki/index.m3u8
-
-#EXTINF:-1,KarapuzTV
-#EXTVLCOPT:http-user-agent=smartlabs
-https://karapuztv.fenixplustv.xyz/content/33418/index.m3u8
-#EXTINF:-1,Kinder TV russia
-#EXTVLCOPT:http-user-agent=smartlabs
-http://autopilot.catcast.tv/content/38144/index.m3u8
 
 
 
 
 
-#EXTINF:-1,Мосфильм. Золотая коллекция
-#EXTVLCOPT:http-user-agent=smartlabs
-http://45.145.32.15:20001/mosfilm/video.m3u8
-#EXTINF:-1,Мосфильм. Золотая коллекция HD
-#EXTVLCOPT:http-user-agent=smartlabs
-http://31.128.159.41:8080/mosfilm/index.m3u8?password=872102883054
-#EXTINF:-1,Мосфильм
-#EXTVLCOPT:http-user-agent=smartlabs
-http://31.128.159.41:8080/mosfilm/index.m3u8?password=886483500620
 
-
-
-#EXTINF:-1,Память
-#EXTVLCOPT:http-user-agent=smartlabs
-https://v2.catcast.tv/content/38821/index.m3u8?872102883054
-
-#EXTINF:0,ВСЁ ВКЛЮЧЕНО
-#EXTVLCOPT:http-user-agent=smartlabs
-https://v2.catcast.tv/content/39161/index.m3u8
-
-
-
-#EXTINF:-1,FILM TV HD
-#EXTVLCOPT:http-user-agent=smartlabs
-http://filmtv.zapto.org:8050/hls/stream/index.m3u8
-
-
-#EXTINF:-1,Фантастика SCIFI
-#EXTVLCOPT:http-user-agent=smartlabs
-https://v2.catcast.tv/content/38801/index.m3u8
-
-
-
-#EXTINF:-1,Ужастик
-#EXTVLCOPT:http-user-agent=smartlabs
-https://autopilot.catcast.tv/content/38896/index.m3u8
-
-
-#EXTINF:-1,Millenium TV SD
-#EXTVLCOPT:http-user-agent=smartlabs
-http://tv1.mmg.ooo/live/sd.stream/playlist.m3u8
-#EXTINF:-1,Millenium TV HD
-#EXTVLCOPT:http-user-agent=smartlabs
-http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8
-
-
-
-
-#EXTINF:-1,Кинозал (VHS 90 - Видеокассета)
-#EXTVLCOPT:http-user-agent=smartlabs
-https://v2.catcast.tv/content/37925/index.m3u8
-
-
-
-#EXTINF:-1,Кинозал (Марс ТВ)
-#EXTVLCOPT:http-user-agent=smartlabs
-https://v2.catcast.tv/content/37033/index.m3u8
-
-
-#EXTINF:0,STR HD
-#EXTVLCOPT:http-user-agent=smartlabs
-https://hls.myvideocontent.ru/hls2/strtv/index.m3u8
 
 
 
@@ -1090,23 +771,153 @@ https://hls.goodgame.ru/hls/5346.m3u8
 
 
 
-
-
-
-
-
-#EXTINF:0,Кинозал (Русская комедия)
+#EXTINF:0,Фантастика
 #EXTVLCOPT:http-user-agent=smartlabs
-http://51.195.44.53:8081/tv/rus-comedy/chunks.m3u8
+https://v2.catcast.tv/content/38801/index.m3u8
+
+#EXTINF:-1,Ужастик
+#EXTVLCOPT:http-user-agent=smartlabs
+https://autopilot.catcast.tv/content/38896/index.m3u8
+
+#EXTINF:-1,Кинозал (VHS 90 - Видеокассета)
+#EXTVLCOPT:http-user-agent=smartlabs
+https://v2.catcast.tv/content/37925/index.m3u8
+
+
+#EXTINF:0,ВСЁ ВКЛЮЧЕНО
+#EXTVLCOPT:http-user-agent=smartlabs
+https://v2.catcast.tv/content/39161/index.m3u8
+
+
+#EXTINF:0,Свежаки HD
+#EXTVLCOPT:http-user-agent=smartlabs
+https://ed-nl-01.mycdn.video/fresh/index.m3u8
+#EXTINF:0,Уже видел HD
+#EXTVLCOPT:http-user-agent=smartlabs
+https://ed-nl-01.mycdn.video/hit/index.m3u8
 
 
 
 
 
+#EXTINF:0,КИНО 1 INTERNATIONAL
+#EXTVLCOPT:http-user-agent=smartlabs
+https://kino-1.catcast.tv/content/38617/index.m3u8
+
+#EXTINF:0,Детское кино International
+#EXTVLCOPT:http-user-agent=smartlabs
+https://v2.catcast.tv/content/38720/index.m3u8
+
+#EXTINF:0,CCCP сказки
+#EXTVLCOPT:http-user-agent=smartlabs
+http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13021/index.m3u
+#EXTINF:0,Маша и медведь
+#EXTVLCOPT:http-user-agent=smartlabs
+http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13042/index.m3u
+#EXTINF:0,Чип и Дейл
+#EXTVLCOPT:http-user-agent=smartlabs
+http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13064/index.m3u
+
+#EXTINF:0,Мультсказки
+#EXTVLCOPT:http-user-agent=smartlabs
+https://autopilot.catcast.tv/content/38850/index.m3u8
+#EXTINF:0,ВЕСЕЛАЯ КАРУСЕЛЬ
+#EXTVLCOPT:http-user-agent=smartlabs
+http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11057/index.m3u8
+
+#EXTINF:-1,KarapuzTV
+#EXTVLCOPT:http-user-agent=smartlabs
+https://karapuztv.fenixplustv.xyz/content/33418/index.m3u8
+
+
+#EXTINF:0,Память
+#EXTVLCOPT:http-user-agent=smartlabs
+https://v2.catcast.tv/content/38821/index.m3u8
+
+
+#EXTINF:0,ussr-фантастика
+#EXTVLCOPT:http-user-agent=smartlabs
+http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13022/index.m3u
+
+#EXTINF:0,комедия classic
+#EXTVLCOPT:http-user-agent=smartlabs
+http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13037/index.m3u
+#EXTINF:0,ussr-комедия
+#EXTVLCOPT:http-user-agent=smartlabs
+http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13019/index.m3u
+
+#EXTINF:0,минимакс-ussr-сказки HD
+#EXTVLCOPT:http-user-agent=smartlabs
+http://4buwjsz6.otttv.pw/iptv/C9XES3A977FLVG/13021/index.m3u
+#EXTINF:0,минимакс-сваты HD
+#EXTVLCOPT:http-user-agent=smartlabs
+http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13051/index.m3u
+#EXTINF:0,минимакс-UFO HD
+#EXTVLCOPT:http-user-agent=smartlabs
+http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13017/index.m3u
+
+
+#EXTINF:0,BCU СССР HD
+#EXTVLCOPT:http-user-agent=smartlabs
+http://iptvcinema.online/bcu_ussr/index.m3u8?token=YXJzZW40NTQ1fHxZWEp6Wlc1QU5EVTBOUT09
 
 #EXTINF:0,Кинозал (СССР2)
 #EXTVLCOPT:http-user-agent=smartlabs
 https://autopilot.catcast.tv/content/38821/index.m3u8
+
+
+#EXTINF:0,Советское кино HD
+#EXTVLCOPT:http-user-agent=smartlabs
+http://0s.on2he3i.pfqw4zdfpaxhe5i.cmle.ru/kal/sovkino_supres/sovkino_supres0_169_720p.json/index-v1-a1.m3u8
+
+#EXTINF:0,TOP USSR
+#EXTVLCOPT:http-user-agent=smartlabs
+http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13005/index.m3u
+
+#EXTINF:0,VF Фильмы СССР
+#EXTVLCOPT:http-user-agent=smartlabs
+http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/10085/index.m3u
+
+#EXTINF:0,VF Мосфильм
+#EXTVLCOPT:http-user-agent=smartlabs
+http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/10084/index.m3u
+
+#EXTINF:0,Мосфильм. Золотая коллекция 1
+#EXTVLCOPT:http-user-agent=smartlabs
+http://31.128.159.41:8080/mosfilm/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Мосфильм. Золотая коллекция HD
+#EXTVLCOPT:http-user-agent=smartlabs
+http://31.128.159.41:8080/mosfilm/index.m3u8?password=872102883054
+
+
+
+#EXTINF:0,VF Classic
+#EXTVLCOPT:http-user-agent=smartlabs
+http://4buwjsz6.otttv.pw/iptv/C9XES3A977FLVG/10054/index.m3u
+#EXTINF:0,VF Сваты
+#EXTVLCOPT:http-user-agent=smartlabs
+http://4buwjsz6.otttv.pw/iptv/C9XES3A977FLVG/13080/index.m3u
+
+
+
+#EXTINF:0,VHS-видеокассета
+#EXTVLCOPT:http-user-agent=smartlabs
+http://v2.catcast.tv/content/37925/index.m3u8
+
+#EXTINF:0,KINOZAL12
+#EXTVLCOPT:http-user-agent=smartlabs
+http://v2.catcast.me/content/38896/index.m3u8
+
+
+#EXTINF:0,Premium кино
+#EXTVLCOPT:http-user-agent=smartlabs
+https://v2.catcast.tv/content/38792/index.m3u8
+#EXTINF:-1,Millenium TV
+#EXTVLCOPT:http-user-agent=smartlabs
+http://tv1.mmg.ooo/live/sd.stream/playlist.m3u8
+
+
 
 
 
@@ -1134,16 +945,6 @@ http://hls.goodgame.ru/hls/71852.m3u8
 http://hls.goodgame.ru/hls/54105.m3u8
 
 
-
-#EXTINF:-1,Кинозал (Музыка кино)
-#EXTVLCOPT:http-user-agent=smartlabs
-http://v2.catcast.me/content/37739/index.m3u8
-#EXTINF:0,Кинозал (Музыка 1)
-#EXTVLCOPT:http-user-agent=smartlabs
-http://v2.catcast.me/content/37745/index.m3u8
-#EXTINF:0,Кинозал (Музыка 2)
-#EXTVLCOPT:http-user-agent=smartlabs
-http://v2.catcast.me/content/37742/index.m3u8
 
 
 
@@ -1182,7 +983,7 @@ http://OTT-cdn.ucom.am/s46/04.m3u8
 
 
 
-#EXTINF:-1,НСТ
+#EXTINF:-1 tvg-rec="7" timeshift="7" ,НСТ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1190,59 +991,69 @@ http://OTT-cdn.ucom.am/s46/04.m3u8
 http://mfe.cliptv.az/dash/NSTV_SD.ism/playlist.mpd
 
 
-#EXTINF:-1,Cinema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.is_realtime_stream=true
-http://mfe.cliptv.az/dash/Cinema_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-rec="7" timeshift="7" ,Кино ТВ
+#EXTVLCOPT:http-user-agent=smartlabs
+http://31.128.159.41:8080/kinotv/index.m3u8
+
+
+#EXTINF:0,Мужское кино (sc.id-tv.kz)
+#EXTVLCOPT:http-user-agent=smartlabs
+https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
+#EXTINF:0,Кинопремьера (sc.id-tv.kz)
+#EXTVLCOPT:http-user-agent=smartlabs
+https://sc.id-tv.kz/Kinopremiera_hd_38_39.m3u8
+
+#EXTINF:-1 tvg-rec="7" timeshift="7" ,Кинопоказ
+#EXTVLCOPT:http-user-agent=smartlabs
+http://91.221.201.2:7006/play/a002/index.m3u8?em9uYS1pcHR2LnJ1
 
 
 
 
-#EXTINF:-1,КИНОМИКС
+
+#EXTINF:-1 tvg-rec="7" timeshift="7" ,КИНОМИКС
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Kinomix_SD.ism/playlist.mpd
-#EXTINF:-1,КИНОПРЕМЬЕРА HD
+#EXTINF:-1 tvg-rec="7" timeshift="7" ,КИНОПРЕМЬЕРА HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Kinopremiera_HD.ism/playlist.mpd
-#EXTINF:-1,КИНОСВИДАНИЕ
+#EXTINF:-1 tvg-rec="7" timeshift="7" ,КИНОСВИДАНИЕ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Kinosvidaniye_SD.ism/playlist.mpd
-#EXTINF:-1,КИНОСЕМЬЯ
+#EXTINF:-1 tvg-rec="7" timeshift="7" ,КИНОСЕМЬЯ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Kinosemya_SD.ism/playlist.mpd
-#EXTINF:-1,КИНОСЕРИЯ
+#EXTINF:-1 tvg-rec="7" timeshift="7" КИНОСЕРИЯ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Kinoseriya_SD.ism/playlist.mpd
-#EXTINF:-1,КИНОХИТ
+#EXTINF:-1 tvg-rec="7" timeshift="7" ,КИНОХИТ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Kinohit_SD.ism/playlist.mpd
-#EXTINF:-1,Кино ТВ
+#EXTINF:-1 tvg-rec="7" timeshift="7" ,Кино ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Kino_TV_HD.ism/playlist.mpd
-#EXTINF:-1,Кинокомедия
+#EXTINF:-1 tvg-rec="7" timeshift="7" ,Кинокомедия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1251,13 +1062,13 @@ http://mfe.cliptv.az/dash/Kinokomediya_SD.ism/playlist.mpd
 
 
 
-#EXTINF:-1,Hollywood
+#EXTINF:-1 tvg-rec="7" timeshift="7" ,Hollywood
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/AMC_SD.ism/playlist.mpd
-#EXTINF:-1,Hollywood HD
+#EXTINF:-1 tvg-rec="7" timeshift="7" ,Hollywood HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1265,19 +1076,25 @@ http://mfe.cliptv.az/dash/AMC_SD.ism/playlist.mpd
 http://mfe.cliptv.az/dash/MGM_HD.ism/playlist.mpd
 
 
-#EXTINF:0,VIP Megahit
+#EXTINF:-1 tvg-rec="7" timeshift="7" ,VIP Megahit
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/VIP_Megahit_HD.ism/playlist.mpd
-#EXTINF:0,Vip Comedy
+
+#EXTINF:-1 tvg-rec="7" timeshift="7" ,VIP Comedy HD
+#EXTVLCOPT:http-user-agent=smartlabs
+http://188.40.68.167/russia/vip_comedy/playlist.m3u8
+
+
+#EXTINF:-1 tvg-rec="7" timeshift="7" ,Vip Comedy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/VIP_Comedy_HD.ism/playlist.mpd
-#EXTINF:0,Vip Premiere
+#EXTINF:-1 tvg-rec="7" timeshift="7" ,Vip Premiere
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
