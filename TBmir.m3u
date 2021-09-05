@@ -2428,42 +2428,320 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 
 
 
-#EXTINF:-1,Канал 1
-https://5656.ga/ch1.m3u8
-#EXTINF:-1,Канал 2
-https://5656.ga/ch2.m3u8
-#EXTINF:-1,Канал 3
-https://5656.ga/ch3.m3u8
-#EXTINF:-1,Канал 4
-https://5656.ga/ch4.m3u8
-#EXTINF:-1,Канал 5
-https://5656.ga/ch5.m3u8
-#EXTINF:-1,Канал 6
-https://5656.ga/ch6.m3u8
-#EXTINF:-1,Канал 7
-https://5656.ga/ch7.m3u8
-#EXTINF:-1,Канал 8
-https://5656.ga/ch8.m3u8
-#EXTINF:-1,Канал 9
-https://5656.ga/ch9.m3u8
-#EXTINF:-1,Канал 10
-https://5656.ga/ch10.m3u8
-#EXTINF:-1,Канал 11
-https://5656.ga/ch11.m3u8
-#EXTINF:-1,Канал 12
-https://5656.ga/ch12.m3u8
-#EXTINF:-1,Канал 13
-https://5656.ga/ch13.m3u8
-#EXTINF:-1,Канал 14
-https://5656.ga/ch14.m3u8
-#EXTINF:-1,Канал 15
-https://5656.ga/ch15.m3u8
-#EXTINF:-1,Канал 16
-https://5656.ga/ch16.m3u8
-#EXTINF:-1,Канал 17
-https://5656.ga/ch17.m3u8
-#EXTINF:-1,Канал 18
-https://5656.ga/ch18.m3u8
+#EXTINF:0,TV1000
+#EXTGRP:Кино
+http://cz.iptv.monster/play/82/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,TV1000 HD
+#EXTGRP:Кино
+http://cz.iptv.monster/play/488/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,TV1000 Action
+#EXTGRP:Кино
+http://cz.iptv.monster/play/83/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,TV1000 Action HD
+#EXTGRP:Кино
+http://cz.iptv.monster/play/487/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,TV1000 World Kino
+#EXTGRP:Кино
+http://cz.iptv.monster/play/9987/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,TV1000 русское кино
+#EXTGRP:Кино
+http://cz.iptv.monster/play/81/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,TV1000 Русское кино HD
+#EXTGRP:Кино
+http://cz.iptv.monster/play/489/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,VIP Comedy HD
+#EXTGRP:Кино
+http://cz.iptv.monster/play/194/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,VIP Comedy CEE HD
+#EXTGRP:Кино
+http://cz.iptv.monster/play/9969/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,VIP Megahit HD
+#EXTGRP:Кино
+http://cz.iptv.monster/play/195/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,VIP Megahit CEE HD
+#EXTGRP:Кино
+http://cz.iptv.monster/play/9968/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,VIP Premiere HD
+#EXTGRP:Кино
+http://cz.iptv.monster/play/196/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,VIP Premiere CEE HD
+#EXTGRP:Кино
+http://cz.iptv.monster/play/9970/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,VIP Serial
+#EXTGRP:Кино
+http://cz.iptv.monster/play/9982/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Душевное HD
+#EXTGRP:Кино
+http://cz.iptv.monster/play/370/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Наш Кинопоказ HD
+#EXTGRP:Кино
+http://cz.iptv.monster/play/4475/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Наше крутое HD
+#EXTGRP:Кино
+http://cz.iptv.monster/play/369/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Наше любимое HD
+#EXTGRP:Кино
+http://cz.iptv.monster/play/499/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Наше Мужское HD
+#EXTGRP:Кино
+http://cz.iptv.monster/play/4777/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Хит HD
+#EXTGRP:Кино
+http://cz.iptv.monster/play/4479/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Блокбастер HD
+#EXTGRP:Кино
+http://cz.iptv.monster/play/4476/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Остросюжетное HD
+#EXTGRP:Кино
+http://cz.iptv.monster/play/368/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Страшное HD
+#EXTGRP:Кино
+http://cz.iptv.monster/play/371/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Киноужас HD
+#EXTGRP:Кино
+http://cz.iptv.monster/play/259/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Про Любовь HD
+#EXTGRP:Кино
+http://cz.iptv.monster/play/4778/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Премиальное HD
+#EXTGRP:Кино
+http://cz.iptv.monster/play/367/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,КИНОПРЕМЬЕРА HD
+#EXTGRP:Кино
+http://cz.iptv.monster/play/183/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Камеди HD
+#EXTGRP:Кино
+http://cz.iptv.monster/play/4780/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,КИНОХИТ
+#EXTGRP:Кино
+http://cz.iptv.monster/play/33/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,КИНОСЕМЬЯ
+#EXTGRP:Кино
+http://cz.iptv.monster/play/13/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,КИНОСВИДАНИЕ
+#EXTGRP:Кино
+http://cz.iptv.monster/play/11/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,КИНОКОМЕДИЯ
+#EXTGRP:Кино
+http://cz.iptv.monster/play/3738/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Шокирующее
+#EXTGRP:Кино
+http://cz.iptv.monster/play/137/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Комедийное
+#EXTGRP:Кино
+http://cz.iptv.monster/play/138/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Kinoshka 1
+#EXTGRP:Кино
+http://cz.iptv.monster/play/9990/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,AMEDIA 1 HD
+#EXTGRP:Кино
+http://cz.iptv.monster/play/629/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Amedia 1
+#EXTGRP:Кино
+http://cz.iptv.monster/play/267/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Amedia 2
+#EXTGRP:Кино
+http://cz.iptv.monster/play/261/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Amedia Hit
+#EXTGRP:Кино
+http://cz.iptv.monster/play/632/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Amedia premium
+#EXTGRP:Кино
+http://cz.iptv.monster/play/630/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,AMEDIA Premium HD
+#EXTGRP:Кино
+http://cz.iptv.monster/play/187/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Fox Life HD
+#EXTGRP:Кино
+http://cz.iptv.monster/play/179/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,FOX HD
+#EXTGRP:Кино
+http://cz.iptv.monster/play/178/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Epic Drama HD
+#EXTGRP:Кино
+http://cz.iptv.monster/play/9983/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,HD Media
+#EXTGRP:Кино
+http://cz.iptv.monster/play/192/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Sony HD
+#EXTGRP:Кино
+http://cz.iptv.monster/play/292/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,SONY Sci-Fi
+#EXTGRP:Кино
+http://cz.iptv.monster/play/102/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Paramount Channel HD
+#EXTGRP:Кино
+http://cz.iptv.monster/play/383/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,AMC
+#EXTGRP:Кино
+http://cz.iptv.monster/play/9936/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Hollywood HD
+#EXTGRP:Кино
+http://cz.iptv.monster/play/176/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Paramount Comedy Russia
+#EXTGRP:Кино
+http://cz.iptv.monster/play/181/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Sony Entertainment Television
+#EXTGRP:Кино
+http://cz.iptv.monster/play/85/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Fox Life
+#EXTGRP:Кино
+http://cz.iptv.monster/play/94/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Fox
+#EXTGRP:Кино
+http://cz.iptv.monster/play/95/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,TV XXI
+#EXTGRP:Кино
+http://cz.iptv.monster/play/84/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Paramount Comedy HD
+#EXTGRP:Кино
+http://cz.iptv.monster/play/382/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,НТВ Сериал
+#EXTGRP:Кино
+http://cz.iptv.monster/play/784/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,НТВ Хит
+#EXTGRP:Кино
+http://cz.iptv.monster/play/3781/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Кинопоказ
+#EXTGRP:Кино
+http://cz.iptv.monster/play/129/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Киносат
+#EXTGRP:Кино
+http://cz.iptv.monster/play/3670/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Кино ТВ HD
+#EXTGRP:Кино
+http://cz.iptv.monster/play/381/634A6977FB9C8BC/video.m3u8
+
+
+#EXTINF:0,Киноджем 1 HD
+#EXTGRP:Кино
+http://cz.iptv.monster/play/8846/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Киноджем 2 HD
+#EXTGRP:Кино
+http://cz.iptv.monster/play/8847/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,FilmBox Arthouse
+#EXTGRP:Кино
+http://cz.iptv.monster/play/2614/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,FilmBox
+#EXTGRP:Кино
+http://cz.iptv.monster/play/3774/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Дорама HD
+#EXTGRP:Кино
+http://cz.iptv.monster/play/8791/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Star Family HD
+#EXTGRP:Кино
+http://cz.iptv.monster/play/9963/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Star Cinema HD
+#EXTGRP:Кино
+http://cz.iptv.monster/play/9965/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,FilmUA Drama
+#EXTGRP:Кино
+http://cz.iptv.monster/play/9937/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Романтичное HD
+#EXTGRP:Кино
+http://cz.iptv.monster/play/9903/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Bolt HD
+#EXTGRP:Кино
+http://cz.iptv.monster/play/1592/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Родное кино
+#EXTGRP:Кино
+http://cz.iptv.monster/play/12/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Дом кино премиум HD
+#EXTGRP:Кино
+http://cz.iptv.monster/play/931/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Дом Кино
+#EXTGRP:Кино
+http://cz.iptv.monster/play/42/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Еврокино
+#EXTGRP:Кино
+http://cz.iptv.monster/play/96/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Русский роман
+#EXTGRP:Кино
+http://cz.iptv.monster/play/172/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Русский Иллюзион
+#EXTGRP:Кино
+http://cz.iptv.monster/play/201/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Мосфильм HD
+#EXTGRP:Кино
+http://cz.iptv.monster/play/4985/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Иллюзион +
+#EXTGRP:Кино
+http://cz.iptv.monster/play/202/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Мосфильм. Золотая коллекция
+#EXTGRP:Кино
+http://cz.iptv.monster/play/9912/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Мужское кино
+#EXTGRP:Кино
+http://cz.iptv.monster/play/209/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Наше новое кино
+#EXTGRP:Кино
+http://cz.iptv.monster/play/35/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Trash TV
+#EXTGRP:Кино
+http://cz.iptv.monster/play/4830/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Советское кино
+#EXTGRP:Кино
+http://cz.iptv.monster/play/9926/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Победа
+#EXTGRP:Кино
+http://cz.iptv.monster/play/3770/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Русская комедия
+#EXTGRP:Кино
+http://cz.iptv.monster/play/280/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Русский бестселлер
+#EXTGRP:Кино
+http://cz.iptv.monster/play/281/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Русский детектив
+#EXTGRP:Кино
+http://cz.iptv.monster/play/282/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Киномикс
+#EXTGRP:Кино
+http://cz.iptv.monster/play/167/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Киносерия
+#EXTGRP:Кино
+http://cz.iptv.monster/play/208/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Любимое кино
+#EXTGRP:Кино
+http://cz.iptv.monster/play/342/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Мир сериала
+#EXTGRP:Кино
+http://cz.iptv.monster/play/291/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Cinema
+#EXTGRP:Кино
+http://cz.iptv.monster/play/223/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Zee TV
+#EXTGRP:Кино
+http://cz.iptv.monster/play/245/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Индийское Кино
+#EXTGRP:Кино
+http://cz.iptv.monster/play/62/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Феникс+ Кино
+#EXTGRP:Кино
+http://cz.iptv.monster/play/204/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,ТВ3
+#EXTGRP:Кино
+http://cz.iptv.monster/play/66/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,НСТ
+#EXTGRP:Кино
+http://cz.iptv.monster/play/93/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Shot TV
+#EXTGRP:Кино
+http://cz.iptv.monster/play/150/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Юрган
+#EXTGRP:Кино
+http://cz.iptv.monster/play/191/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Кино UHD 4k
+#EXTGRP:Кино
+http://cz.iptv.monster/play/8842/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Сериал UHD 4k
+#EXTGRP:Кино
+http://cz.iptv.monster/play/8843/634A6977FB9C8BC/video.m3u8
+#EXTINF:0,Ultra HD Cinema 4k
+#EXTGRP:Кино
+http://cz.iptv.monster/play/8844/634A6977FB9C8BC/video.m3u8
+
+
+
 
 
 
