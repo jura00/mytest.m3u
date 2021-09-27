@@ -9,6 +9,9 @@ https://www.bilder-upload.eu/thumb/6da1cd-1577101217.png
 https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 
 
+#EXTINF:-1,Первый российский национальный канал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+http://serv25.vintera.tv:8081/1pnk/1pnk/playlist.m3u8
 
 
 #EXTINF:-1,Телестанция Мир
@@ -57,6 +60,12 @@ http://85.234.33.64/stream/c11.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
 
+#EXTINF:-1,2x2 | 576P
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://mfe.cliptv.az/dash/2x2_SD.ism/playlist.mpd
 
 
 
@@ -431,6 +440,9 @@ http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 
 
 
+#EXTINF:-1,VIVA russia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 
 
 
@@ -2741,10 +2753,410 @@ http://cz.iptv.monster/play/8843/634A6977FB9C8BC/video.m3u8
 http://cz.iptv.monster/play/8844/634A6977FB9C8BC/video.m3u8
 
 
+__________
 
 
 
 
+#EXTINF:0 tvg-rec="0",Первый HD Orig
+#EXTGRP:Общие
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/7253/index.m3u8
+#EXTINF:0 tvg-rec="7",НТВ HD
+#EXTGRP:Общие
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/213/index.m3u8
+#EXTINF:0 tvg-rec="7",Россия HD
+#EXTGRP:Общие
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/205/index.m3u8
+#EXTINF:0 tvg-rec="7",Телеканал Звезда
+#EXTGRP:Общие
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/544/index.m3u8
+#EXTINF:0 tvg-rec="7",Звезда Плюс
+#EXTGRP:Общие
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/10059/index.m3u8
+#EXTINF:0 tvg-rec="7",Россия-24
+#EXTGRP:новости
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/507/index.m3u8
+#EXTINF:0 tvg-rec="7",Пятый канал
+#EXTGRP:новости
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/112/index.m3u8
+#EXTINF:0 tvg-rec="7",Известия
+#EXTGRP:новости
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/2008/index.m3u8
+#EXTINF:0 tvg-rec="0",UZ Приключение HD
+#EXTGRP:UZ кино
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/13069/index.m3u8
+#EXTINF:0 tvg-rec="0",UZ Бойцовское кино HD
+#EXTGRP:UZ кино
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/13070/index.m3u8
+#EXTINF:0 tvg-rec="0",UZ Боевики HD
+#EXTGRP:UZ кино
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/13077/index.m3u8
+#EXTINF:0 tvg-rec="7",KBC-Страна СССР
+#EXTGRP:KBC кино
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/11091/index.m3u8
+#EXTINF:0 tvg-rec="7",KBC-Шпионское
+#EXTGRP:KBC кино
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/11093/index.m3u8
+#EXTINF:0 tvg-rec="0",минимакс-история HD
+#EXTGRP:минимакс кино
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/13033/index.m3u8
+#EXTINF:0 tvg-rec="0",минимакс-криминал HD
+#EXTGRP:минимакс кино
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/13039/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Военные
+#EXTGRP:VF кино
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/10082/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Наша победа
+#EXTGRP:VF кино
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/10083/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Мосфильм
+#EXTGRP:VF кино
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/10084/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Фильмы СССР
+#EXTGRP:VF кино
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/10085/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Боевик
+#EXTGRP:VF кино
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/10087/index.m3u8
+#EXTINF:0 tvg-rec="0",VF След
+#EXTGRP:VF кино
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/13086/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Thriller
+#EXTGRP:CineMan кино
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/11007/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan РуКино
+#EXTGRP:CineMan кино
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/11013/index.m3u8
+#EXTINF:0 tvg-rec="7",Кинозал! СССР
+#EXTGRP:CineMan кино
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/11061/index.m3u8
+#EXTINF:0 tvg-rec="0",Мужское Кино HD
+#EXTGRP:кино
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/10045/index.m3u8
+#EXTINF:0 tvg-rec="7",Русский бестселлер
+#EXTGRP:кино
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/905/index.m3u8
+#EXTINF:0 tvg-rec="7",Русский детектив
+#EXTGRP:кино
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/907/index.m3u8
+#EXTINF:0 tvg-rec="7",НТВ‑ХИТ
+#EXTGRP:кино
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/741/index.m3u8
+#EXTINF:0 tvg-rec="7",НТВ Сериал
+#EXTGRP:кино
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/744/index.m3u8
+#EXTINF:0 tvg-rec="3",Мосфильм. Золотая коллекция
+#EXTGRP:кино
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/6392/index.m3u8
+#EXTINF:0 tvg-rec="7",Мир Сериала
+#EXTGRP:кино
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/856/index.m3u8
+#EXTINF:0 tvg-rec="0",Кинокомедия HD
+#EXTGRP:кино
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/7248/index.m3u8
+#EXTINF:0 tvg-rec="0",Киномикс HD
+#EXTGRP:кино
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/7249/index.m3u8
+#EXTINF:0 tvg-rec="0",Кинохит HD
+#EXTGRP:кино
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/7250/index.m3u8
+#EXTINF:0 tvg-rec="0",Киноджем 1 HD
+#EXTGRP:кино
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/7260/index.m3u8
+#EXTINF:0 tvg-rec="0",Киноджем 2 HD
+#EXTGRP:кино
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/7261/index.m3u8
+#EXTINF:0 tvg-rec="0",Киносемья HD
+#EXTGRP:кино
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/7244/index.m3u8
+#EXTINF:0 tvg-rec="0",Киносвидание HD
+#EXTGRP:кино
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/7245/index.m3u8
+#EXTINF:0 tvg-rec="7",TV 1000 Русское кино
+#EXTGRP:кино
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/101/index.m3u8
+#EXTINF:0 tvg-rec="7",TV 1000 Action
+#EXTGRP:кино
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/131/index.m3u8
+#EXTINF:0 tvg-rec="7",Serial HD
+#EXTGRP:кино
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/11101/index.m3u8
+#EXTINF:0 tvg-rec="7",USSR
+#EXTGRP:кино
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/11102/index.m3u8
+#EXTINF:0 tvg-rec="0",TOP USSR HD
+#EXTGRP:кино
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/13005/index.m3u8
+#EXTINF:0 tvg-rec="7",VIP Comedy
+#EXTGRP:кино
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/200/index.m3u8
+#EXTINF:0 tvg-rec="7",VIP Megahit
+#EXTGRP:кино
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/201/index.m3u8
+#EXTINF:0 tvg-rec="7",Viasat Nature/History HD
+#EXTGRP:познавательные
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/203/index.m3u8
+#EXTINF:0 tvg-rec="3",HGTV HD RU
+#EXTGRP:познавательные
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/6391/index.m3u8
+#EXTINF:0 tvg-rec="3",Viasat History HD
+#EXTGRP:познавательные
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/6002/index.m3u8
+#EXTINF:0 tvg-rec="7",History HD
+#EXTGRP:познавательные
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/231/index.m3u8
+#EXTINF:0 tvg-rec="7",Discovery Channel HD
+#EXTGRP:познавательные
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/227/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! HD
+#EXTGRP:спорт
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/212/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 3 HD
+#EXTGRP:спорт
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/206/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Арена HD
+#EXTGRP:спорт
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/207/index.m3u8
+#EXTINF:0 tvg-rec="0",Сетанта Спорт + HD UA
+#EXTGRP:спорт
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/10040/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 2 HD
+#EXTGRP:спорт
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/211/index.m3u8
+#EXTINF:0 tvg-rec="7",МАТЧ ПРЕМЬЕР HD
+#EXTGRP:спорт
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/220/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Игра HD
+#EXTGRP:спорт
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/225/index.m3u8
+#EXTINF:0 tvg-rec="7",Eurosport 1 HD
+#EXTGRP:спорт
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/228/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 1 HD
+#EXTGRP:спорт
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/222/index.m3u8
+#EXTINF:0 tvg-rec="7",Eurosport 2 North-East HD
+#EXTGRP:спорт
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/234/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Игра HD
+#EXTGRP:спорт
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/225/index.m3u8
+#EXTINF:0 tvg-rec="3",Южная волна
+#EXTGRP:українські
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/979/index.m3u8
+#EXTINF:0 tvg-rec="3",Первый городской
+#EXTGRP:українські
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/981/index.m3u8
+#EXTINF:0 tvg-rec="3",ТРК Украина HD UA
+#EXTGRP:українські
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/6318/index.m3u8
+#EXTINF:0 tvg-rec="3",1+1 HD UA
+#EXTGRP:українські
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/6317/index.m3u8
+#EXTINF:0 tvg-rec="3",Футбол 1
+#EXTGRP:українські
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/1109/index.m3u8
+#EXTINF:0 tvg-rec="3",Футбол 2
+#EXTGRP:українські
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/1110/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU СССР HD
+#EXTGRP:BCU
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/11026/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Action HD
+#EXTGRP:BCU
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/11027/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Catastrophe HD
+#EXTGRP:BCU
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/11028/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Cinema HD
+#EXTGRP:BCU
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/11029/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Cinema+ HD
+#EXTGRP:BCU
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/11030/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU History HD
+#EXTGRP:BCU
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/11034/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Kinorating HD
+#EXTGRP:BCU
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/11037/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Premiere HD
+#EXTGRP:BCU
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/11039/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Russian HD
+#EXTGRP:BCU
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/11041/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU VHS HD
+#EXTGRP:BCU
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/11042/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Stars HD
+#EXTGRP:BCU
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/11044/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU RUSERIAL HD
+#EXTGRP:BCU
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/11046/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Сваты HD
+#EXTGRP:BCU
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/11047/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Criminal HD
+#EXTGRP:BCU
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/11048/index.m3u8
+#EXTINF:0 tvg-rec="7",BACKUS TV HD
+#EXTGRP:BCU
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/11049/index.m3u8
+#EXTINF:0 tvg-rec="7",BEST Films HD
+#EXTGRP:BCU
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/11050/index.m3u8
+#EXTINF:0 tvg-rec="7",LOST HD
+#EXTGRP:BCU
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/11053/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Кинозал Premiere 1 HD
+#EXTGRP:BCU
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/11015/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Кинозал Premiere 2 HD
+#EXTGRP:BCU
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/11016/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Кинозал Premiere 3 HD
+#EXTGRP:BCU
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/11017/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Кинозал Premiere 4 HD
+#EXTGRP:BCU
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/11018/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Кинозал Premiere 5 HD
+#EXTGRP:BCU
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/11019/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Кинозал Premiere 6 HD
+#EXTGRP:BCU
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/11020/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Кинозал Premiere 7 HD
+#EXTGRP:BCU
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/11021/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Кинозал Premiere 8 HD
+#EXTGRP:BCU
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/11022/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Кинозал Premiere 9 HD
+#EXTGRP:BCU
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/11023/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Кинозал Premiere 10 HD
+#EXTGRP:BCU
+http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/11024/index.m3u8
+
+
+
+_______
+
+
+
+
+#EXTINF:-1,Еврокино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+http://37.99.5.234/btv/SWM/Eurokino/Eurokino_576p_2000kbps.m3u8
+#EXTINF:-1,Индийское Кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://mfe.cliptv.az/dash/Indiyskoe_Kino_SD.ism/playlist.mpd
+#EXTINF:-1,КИНОМИКС
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://mfe.cliptv.az/dash/Kinomix_SD.ism/playlist.mpd
+#EXTINF:-1,КИНОПРЕМЬЕРА HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://mfe.cliptv.az/dash/Kinopremiera_HD.ism/playlist.mpd
+#EXTINF:-1,КИНОСВИДАНИЕ SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://mfe.cliptv.az/dash/Kinosvidaniye_SD.ism/playlist.mpd
+#EXTINF:-1,КИНОСВИДАНИЕ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+http://37.99.5.234/btv/SWM/Kinosvidanie/Kinosvidanie_1080p_5000kbps.m3u8
+#EXTINF:-1,КИНОСЕМЬЯ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://mfe.cliptv.az/dash/Kinosemya_SD.ism/playlist.mpd
+#EXTINF:-1,КИНОСЕРИЯ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+http://37.99.5.234/btv/SWM/Kinoserija/Kinoserija_576p_2000kbps.m3u8
+#EXTINF:-1,КИНОХИТ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://mfe.cliptv.az/dash/Kinohit_SD.ism/playlist.mpd
+#EXTINF:-1,Кино ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://mfe.cliptv.az/dash/Kino_TV_HD.ism/playlist.mpd
+#EXTINF:-1,Кинокомедия SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://mfe.cliptv.az/dash/Kinokomediya_SD.ism/playlist.mpd
+#EXTINF:-1,Кинокомедия HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+http://37.99.5.234/btv/SWM/Kinokomedija/Kinokomedija_1080p_5000kbps.m3u8
+
+#EXTINF:-1,XXI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://mfe.cliptv.az/dash/TV_XXI_SD.ism/playlist.mpd
+#EXTINF:-1,TV1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://mfe.cliptv.az/dash/TV1000_SD.ism/playlist.mpd
+#EXTINF:-1,TV1000 Action | 576P
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+http://37.99.5.234/btv/SWM/TV1000Action/TV1000Action_576p_2000kbps.m3u8
+
+#EXTINF:-1,Hollywood
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+http://37.99.5.234/btv/SWM/Hollywood/Hollywood_576p_2000kbps.m3u8
+
+#EXTINF:-1,Победа
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+http://87.247.44.26/btv/SWM/Pobeda/Pobeda.m3u8
+#EXTINF:-1,НСТ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+http://37.99.5.234/btv/SWM/HCT/HCT_576p_2000kbps.m3u8
+#EXTINF:-1,Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+http://37.99.5.234/btv/SWM/CINEMA/CINEMA_576p_2000kbps.m3u8
+
+#EXTINF:0,VIP Megahit
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://mfe.cliptv.az/dash/VIP_Megahit_HD.ism/playlist.mpd
+#EXTINF:0,Vip Comedy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://mfe.cliptv.az/dash/VIP_Comedy_HD.ism/playlist.mpd
+#EXTINF:0,Vip Premiere
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://mfe.cliptv.az/dash/VIP_Premium_HD.ism/playlist.mpd
 
 
 
