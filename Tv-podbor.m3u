@@ -3,6 +3,10 @@
 #EXTINF:-1 ,update 28.09.2021
 
 
+#EXTINF:0, сетанта спорт 1
+http://cdntv.online/hls/zcsv37fe5m/1021.m3u8
+
+
 #EXTINF:0 tvg-rec="0",Сетанта Спорт + HD UA
 http://admiral.cbilant.com/iptv/GZAZDMYZQLEAFY/10040/index.m3u8
 
