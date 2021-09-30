@@ -2,6 +2,112 @@
 
 #EXTINF:-1 ,update 28.09.2021
 
+
+
+
+#EXTINF:0 tvg-id="1239" tvg-logo="http://epg.cdntv.online/img/1239.png" group-title="Кино", TV1000 Action HD CEE
+#EXTGRP:Кино
+http://cdntv.online/hls/zcsv37fe5m/1239.m3u8
+#EXTINF:0 tvg-id="1240" tvg-logo="http://epg.cdntv.online/img/1240.png" group-title="Кино", TV1000 CEE
+#EXTGRP:Кино
+http://cdntv.online/hls/zcsv37fe5m/1240.m3u8
+#EXTINF:0 tvg-id="1241" tvg-logo="http://epg.cdntv.online/img/1241.png" group-title="Кино", TV1000 World Kino
+#EXTGRP:Кино
+http://cdntv.online/hls/zcsv37fe5m/1241.m3u8
+#EXTINF:0 tvg-id="1242" tvg-logo="http://epg.cdntv.online/img/1242.png" group-title="Кино", ViP Megahit HD CEE
+#EXTGRP:Кино
+http://cdntv.online/hls/zcsv37fe5m/1242.m3u8
+#EXTINF:0 tvg-id="1243" tvg-logo="http://epg.cdntv.online/img/1243.png" group-title="Кино", ViP Premiere HD CEE
+#EXTGRP:Кино
+http://cdntv.online/hls/zcsv37fe5m/1243.m3u8
+#EXTINF:0 tvg-id="1244" tvg-logo="http://epg.cdntv.online/img/1244.png" group-title="Кино", ViP Comedy HD CEE
+#EXTGRP:Кино
+http://cdntv.online/hls/zcsv37fe5m/1244.m3u8
+#EXTINF:0 tvg-id="1245" tvg-logo="http://epg.cdntv.online/img/1245.png" group-title="Украина", Фауна
+#EXTGRP:Украина
+http://cdntv.online/hls/zcsv37fe5m/1245.m3u8
+#EXTINF:0 tvg-id="1246" tvg-logo="http://epg.cdntv.online/img/1246.png" group-title="Украина", Кус-кус HD
+#EXTGRP:Украина
+http://cdntv.online/hls/zcsv37fe5m/1246.m3u8
+#EXTINF:0 tvg-id="1247" tvg-logo="http://epg.cdntv.online/img/1247.png" group-title="Региональные", ТРК ПУТЬ
+#EXTGRP:Региональные
+http://cdntv.online/hls/zcsv37fe5m/1247.m3u8
+#EXTINF:0 tvg-id="1248" tvg-logo="http://epg.cdntv.online/img/1248.png" group-title="Региональные", ГТРК Вайнах
+#EXTGRP:Региональные
+http://cdntv.online/hls/zcsv37fe5m/1248.m3u8
+#EXTINF:0 tvg-id="1249" tvg-logo="http://epg.cdntv.online/img/1249.png" group-title="Региональные", ЧГТРК Грозный
+#EXTGRP:Региональные
+http://cdntv.online/hls/zcsv37fe5m/1249.m3u8
+#EXTINF:0 tvg-id="1250" tvg-logo="http://epg.cdntv.online/img/1250.png" group-title="Узбекистан", Kinoteatr
+#EXTGRP:Узбекистан
+http://cdntv.online/hls/zcsv37fe5m/1250.m3u8
+#EXTINF:0 tvg-id="1251" tvg-logo="http://epg.cdntv.online/img/1251.png" group-title="Казахстан", Qazaqstan
+#EXTGRP:Казахстан
+http://cdntv.online/hls/zcsv37fe5m/1251.m3u8
+#EXTINF:0 tvg-id="1252" tvg-logo="http://epg.cdntv.online/img/1252.png" group-title="Кинозалы", Cartoons 90
+#EXTGRP:Кинозалы
+http://cdntv.online/hls/zcsv37fe5m/1252.m3u8
+#EXTINF:0 tvg-id="1253" tvg-logo="http://epg.cdntv.online/img/1253.png" group-title="Кинозалы", Cartoons Short
+#EXTGRP:Кинозалы
+http://cdntv.online/hls/zcsv37fe5m/1253.m3u8
+#EXTINF:0 tvg-id="1254" tvg-logo="http://epg.cdntv.online/img/1254.png" group-title="Кинозалы", Cartoons Big
+#EXTGRP:Кинозалы
+http://cdntv.online/hls/zcsv37fe5m/1254.m3u8
+#EXTINF:0 tvg-id="1255" tvg-logo="http://epg.cdntv.online/img/1255.png" group-title="Кинозалы", CineMan
+#EXTGRP:Кинозалы
+http://cdntv.online/hls/zcsv37fe5m/1255.m3u8
+#EXTINF:0 tvg-id="1256" tvg-logo="http://epg.cdntv.online/img/1256.png" group-title="Кинозалы", CineMan Top
+#EXTGRP:Кинозалы
+http://cdntv.online/hls/zcsv37fe5m/1256.m3u8
+#EXTINF:0 tvg-id="1257" tvg-logo="http://epg.cdntv.online/img/1257.png" group-title="Кинозалы", CineMan Action
+#EXTGRP:Кинозалы
+http://cdntv.online/hls/zcsv37fe5m/1257.m3u8
+#EXTINF:0 tvg-id="1258" tvg-logo="http://epg.cdntv.online/img/1258.png" group-title="Кинозалы", CineMan Thriller
+#EXTGRP:Кинозалы
+http://cdntv.online/hls/zcsv37fe5m/1258.m3u8
+#EXTINF:0 tvg-id="1259" tvg-logo="http://epg.cdntv.online/img/1259.png" group-title="Кинозалы", CineMan Melodrama
+#EXTGRP:Кинозалы
+http://cdntv.online/hls/zcsv37fe5m/1259.m3u8
+#EXTINF:0 tvg-id="1260" tvg-logo="http://epg.cdntv.online/img/1260.png" group-title="Кинозалы", CineMan Marvel
+#EXTGRP:Кинозалы
+http://cdntv.online/hls/zcsv37fe5m/1260.m3u8
+#EXTINF:0 tvg-id="1261" tvg-logo="http://epg.cdntv.online/img/1261.png" group-title="Кинозалы", CineMan Ужасы
+#EXTGRP:Кинозалы
+http://cdntv.online/hls/zcsv37fe5m/1261.m3u8
+#EXTINF:0 tvg-id="1262" tvg-logo="http://epg.cdntv.online/img/1262.png" group-title="Кинозалы", CineMan Комедия
+#EXTGRP:Кинозалы
+http://cdntv.online/hls/zcsv37fe5m/1262.m3u8
+#EXTINF:0 tvg-id="1263" tvg-logo="http://epg.cdntv.online/img/1263.png" group-title="Кинозалы", CineMan VHS
+#EXTGRP:Кинозалы
+http://cdntv.online/hls/zcsv37fe5m/1263.m3u8
+#EXTINF:0 tvg-id="1264" tvg-logo="http://epg.cdntv.online/img/1264.png" group-title="Кинозалы", CineMan РуКино
+#EXTGRP:Кинозалы
+http://cdntv.online/hls/zcsv37fe5m/1264.m3u8
+#EXTINF:0 tvg-id="1265" tvg-logo="http://epg.cdntv.online/img/1265.png" group-title="Кинозалы", CineMan Сваты
+#EXTGRP:Кинозалы
+http://cdntv.online/hls/zcsv37fe5m/1265.m3u8
+#EXTINF:0 tvg-id="1266" tvg-logo="http://epg.cdntv.online/img/1266.png" group-title="Кинозалы", Сериал "Скорая помощь"
+#EXTGRP:Кинозалы
+http://cdntv.online/hls/zcsv37fe5m/1266.m3u8
+#EXTINF:0 tvg-id="1267" tvg-logo="http://epg.cdntv.online/img/1267.png" group-title="Кинозалы", Сериал "Симпсоны"
+#EXTGRP:Кинозалы
+http://cdntv.online/hls/zcsv37fe5m/1267.m3u8
+#EXTINF:0 tvg-id="1268" tvg-logo="http://epg.cdntv.online/img/1268.png" group-title="Познавательные", Независимые
+#EXTGRP:Познавательные
+http://cdntv.online/hls/zcsv37fe5m/1268.m3u8
+#EXTINF:0 tvg-id="1269" tvg-logo="http://epg.cdntv.online/img/1269.png" group-title="Музыкальные", QUEER HD
+#EXTGRP:Музыкальные
+http://cdntv.online/hls/zcsv37fe5m/1269.m3u8
+#EXTINF:0 tvg-id="1270" tvg-logo="http://epg.cdntv.online/img/1270.png" group-title="Развлекательные", DV TV
+#EXTGRP:Развлекательные
+http://cdntv.online/hls/zcsv37fe5m/1270.m3u8
+#EXTINF:0 tvg-id="1271" tvg-logo="http://epg.cdntv.online/img/1271.png" group-title="Кинозалы", CineMan Катастрофы
+#EXTGRP:Кинозалы
+http://cdntv.online/hls/zcsv37fe5m/1271.m3u8
+
+
+
+
 #EXTINF:0 tvg-id="45" tvg-logo="http://epg.cdntv.online/img/45.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спортивные", КХЛ
 #EXTGRP:Спортивные
 http://cdntv.online/hls/zcsv37fe5m/45.m3u8
