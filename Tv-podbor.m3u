@@ -3,6 +3,10 @@
 #EXTINF:-1 ,update 28.09.2021
 
 
+#EXTINF:-1 group-title="Спортивные" tvg-logo="http://epg.it999.ru/img2/2055.png",Viasat Sport
+http://45.80.44.93:25002/play/a01g/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="http://epg.it999.ru/img2/2055.png",Viasat Sport persik
+https://persik.tv/stream/3602/287583/10249.m3u8
 
 
 #EXTINF:0 tvg-id="1239" tvg-logo="http://epg.cdntv.online/img/1239.png" group-title="Кино", TV1000 Action HD CEE
