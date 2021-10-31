@@ -6679,3 +6679,388 @@ http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/5005/index.m3u8
 #EXTINF:0 tvg-rec="3",Stingray Festival 4K
 #EXTGRP:4K
 http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/5006/index.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/MBFj22w/tv-ekstra.jpg",ТВ Экстра | TV Extra
+#EXTVLCOPT:http-user-agent=(_._)
+http://live-1.otcnet.ru/tvextra720b/index.m3u8
+
+
+
+
+#EXTINF:-1,VIP Comedy HD
+#EXTGRP:Кино1
+https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD/720p.m3u8
+#EXTINF:-1,VIP Megahit HD
+#EXTGRP:Кино1
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD/720p.m3u8
+#EXTINF:-1,VIP Premiere HD
+#EXTGRP:Кино1
+https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD/720p.m3u8
+#EXTINF:-1,VIP Serial HD
+#EXTGRP:Кино1
+https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD/720p.m3u8
+#EXTGRP:Кино1
+https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
+#EXTINF:-1,TV1000 HD
+#EXTGRP:Кино1
+https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
+#EXTINF:-1,TV1000 Action HD
+#EXTGRP:Кино1
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
+#EXTINF:-1,TV1000 Русское кино HD
+#EXTGRP:Кино1
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
+#EXTINF:-1,TV 1000 Русское кино Int
+#EXTGRP:Кино1
+http://74.102.118.117:8812/udp/127.0.0.1:5311
+#EXTINF:-1,TV 1000 HD
+#EXTGRP:Кино1
+http://dmitry-tv.ml/hls/CH_TV1000HD.m3u8
+#EXTINF:-1,TV 1000
+#EXTGRP:Кино1
+http://188.232.102.173:9981/stream/channelid/733851337
+#EXTINF:-1,TV 1000 Русское кино
+#EXTGRP:Кино1
+http://188.232.102.173:9981/stream/channelid/1197373418
+#EXTINF:-1,TV 1000 Action FHD
+#EXTGRP:Кино1
+http://dmitry-tv.ml/hls/CH_TV1000ACTIONHD.m3u8
+#EXTINF:-1,SCI-FI
+#EXTGRP:Кино1
+https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
+#EXTINF:-1,BLACK
+#EXTGRP:Кино1
+https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
+#EXTINF:-1,A HIT HD 1080p
+#EXTGRP:Кино1
+http://46.34.209.243:80/btv/SWM/AmediaHitHD/AmediaHitHD_1080p_5000kbps.m3u8
+#EXTINF:-1,A HIT HD
+#EXTGRP:Кино1
+http://46.34.209.243:80/btv/SWM/AmediaHitHD/AmediaHitHD_720p_3500kbps.m3u8
+#EXTINF:-1,A Premium HD
+#EXTGRP:Кино1
+http://46.34.209.243:80/btv/SWM/Amedia_PremiumHD/Amedia_PremiumHD.m3u8
+#EXTINF:-1,A1 HD
+#EXTGRP:Кино1
+http://46.34.209.243:80/btv/SWM/A1/A1_720p_3500kbps.m3u8
+#EXTINF:-1,A1 HD 1080
+#EXTGRP:Кино1
+http://87.247.44.25:80/btv/SWM/A1/A1_1080p_5000kbps.m3u8
+#EXTINF:-1,A2 HD
+#EXTGRP:Кино1
+http://46.34.209.243:80/btv/SWM/A2/A2.m3u8
+#EXTINF:-1,A2 576p
+#EXTGRP:Кино1
+http://46.34.209.243:80/btv/SWM/A2/A2_576p_2000kbps.m3u8
+#EXTINF:-1,Hollywood
+#EXTGRP:Кино1
+http://46.34.209.243:80/btv/SWM/Hollywood/Hollywood_576p_2000kbps.m3u8
+#EXTINF:-1,Hollywood HD
+#EXTGRP:Кино1
+http://46.34.209.243:80/btv/SWM/Hollywood/Hollywood.m3u8
+#EXTINF:-1,Star Cinema HD
+#EXTGRP:Кино1
+http://95.67.12.94:9001
+#EXTINF:-1,Series TV
+#EXTGRP:Кино1
+http://cdnhls.goodgame.ru/hls/186021.m3u8
+#EXTINF:-1,Sci-Fi
+#EXTGRP:Кино1
+https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi/480p.m3u8
+#EXTINF:-1,KINO 24
+#EXTGRP:Кино1
+http://85.192.10.131/hls/Kino24Ru/playlist.m3u8
+#EXTINF:-1,Global Star TV
+#EXTGRP:Кино1
+http://stream2.hardlife.tv:8135/hls-live/hlsGS/_definst_/lq/gs.m3u8
+#EXTINF:-1,Fox Life HD
+#EXTGRP:Кино1
+https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/720p.m3u8
+#EXTINF:-1,Black
+#EXTGRP:Кино1
+https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo/480p.m3u8
+#EXTINF:-1,СТРК HD
+#EXTGRP:Кино1
+http://sochi-strk.ru:2015/STRK/mpegts
+#EXTINF:-1,PZN FHD
+#EXTGRP:Кино1
+http://cdnhls.goodgame.ru/hls/180960.m3u8
+#EXTINF:-1,FilMax
+#EXTGRP:Кино1
+http://cdnhls.goodgame.ru/hls/163253.m3u8
+#EXTINF:-1,FAN HD
+#EXTGRP:Кино1
+http://cdnhls.goodgame.ru/hls/157239.m3u8
+#EXTINF:-1,seriesTV
+#EXTGRP:Кино1
+http://cdnhls.goodgame.ru/hls/186021.m3u8
+#EXTINF:-1,Millenium TV
+#EXTGRP:Кино1
+http://tv1.mmg.ooo/live/sd.stream/playlist.m3u8
+#EXTINF:-1,Millenium TV HD
+#EXTGRP:Кино1
+http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8
+#EXTINF:-1,Star Family
+#EXTGRP:Кино1
+http://95.67.12.94:9002
+#EXTINF:-1,Наше новое кино
+#EXTGRP:Кино1
+http://46.34.209.243/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_720p_3500kbps.m3u8
+#EXTINF:-1,Наше новое кино HD
+#EXTGRP:Кино1
+http://46.34.209.243/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_1080p_5000kbps.m3u8
+#EXTINF:-1,Индийское Кино
+#EXTGRP:Кино1
+http://cache2.multiscreen.moldtelecom.md:80/live/eds/indijskoe_kino_sd/HLSv3/indijskoe_kino_sd.m3u8
+#EXTINF:-1,RED HD
+#EXTGRP:Кино1
+http://188.232.102.173:9981/stream/channelid/927635997
+#EXTINF:-1,Ностальгия
+#EXTGRP:Кино1
+http://188.232.102.173:9981/stream/channelid/587689351
+#EXTINF:-1,Shot
+#EXTGRP:Кино1
+http://45.80.44.93:25022/play/a01c/index.m3u8
+#EXTINF:-1,Cinema
+#EXTGRP:Кино1
+http://37.99.5.234/btv/SWM/CINEMA/CINEMA.m3u8
+#EXTINF:-1,Film Box
+#EXTGRP:Кино1
+http://94.230.240.17:8080/film_box/index.m3u8
+#EXTINF:-1,Film Box Arthouse
+#EXTGRP:Кино1
+http://188.232.102.173:9981/stream/channelid/629776531
+#EXTINF:-1,Мосфильм Золотая Коллекция HD
+#EXTGRP:Кино1
+http://109.239.128.126:8080/mosfilm/tracks-v2a1/mono.m3u8
+#EXTINF:-1,Мосфільм Золота Колекція FHD
+#EXTGRP:Кино1
+http://31.131.191.7:8000/play/a054
+#EXTINF:-1,Мужское Кино 1080
+#EXTGRP:Кино1
+http://87.247.44.26/btv/SWM/MuzhskoyeKinoHD/MuzhskoyeKinoHD_1080p_5000kbps.m3u8
+#EXTINF:-1,Киноужас
+#EXTGRP:Кино1
+http://37.99.5.234/btv/SWM/KinoUzhas/KinoUzhas_576p_2000kbps.m3u8
+#EXTINF:-1,Киносерия HD
+#EXTGRP:Кино1
+http://37.99.5.234/btv/SWM/Kinoserija/Kinoserija_576p_2000kbps.m3u8
+#EXTINF:-1,Киносвидание HD
+#EXTGRP:Кино1
+http://37.99.5.234/btv/SWM/Kinosvidanie/Kinosvidanie_720p_3500kbps.m3u8
+#EXTINF:-1,Дом кино Премиум
+#EXTGRP:Кино1
+http://37.99.5.234/btv/SWM/Dom_kino_Prem/Dom_kino_Prem.m3u8
+#EXTINF:-1,Дом кино Премиум HD
+#EXTGRP:Кино1
+http://37.99.5.234/btv/SWM/Dom_kino_Prem/Dom_kino_Prem_1080p_5000kbps.m3u8
+#EXTINF:-1,Fox HD
+#EXTGRP:Кино1
+http://37.99.5.234/btv/SWM/FOX/FOX_720p_3500kbps.m3u8
+#EXTINF:-1,Hollywood HD
+#EXTGRP:Кино1
+http://37.99.5.234/btv/SWM/Hollywood/Hollywood.m3u8
+#EXTINF:-1,Ностальгия
+#EXTGRP:Кино1
+http://37.99.5.234/btv/SWM/NOSTALGIYA/NOSTALGIYA.m3u8
+#EXTINF:-1,Наше Новое Кино HD
+#EXTGRP:Кино1
+http://37.99.5.234/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_1080p_5000kbps.m3u8
+#EXTINF:-1,Победа
+#EXTGRP:Кино1
+http://37.99.5.234/btv/SWM/Pobeda/Pobeda_576p_2000kbps.m3u8
+#EXTINF:-1,Киносерия
+#EXTGRP:Кино1
+http://109.239.128.126:8080/kinoseria/tracks-v2a1/mono.m3u8
+#EXTINF:-1,Киноужас FHD
+#EXTGRP:Кино1
+http://109.239.128.126:8080/kinouzhas/tracks-v2a1/mono.m3u8
+#EXTINF:-1,Кинохит HD
+#EXTGRP:Кино1
+http://109.239.128.126:8080/kinohit/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Кинохит
+#EXTGRP:Кино1
+http://cache2.multiscreen.moldtelecom.md:80/live/eds/kinohit_sd/HLSv3/kinohit_sd.m3u8
+#EXTINF:-1,Киносемья
+#EXTGRP:Кино1
+http://cache2.multiscreen.moldtelecom.md:80/live/eds/kinosemya_sd/HLSv3/kinosemya_sd.m3u8
+#EXTINF:-1,Кинокомедия
+#EXTGRP:Кино1
+http://cache2.multiscreen.moldtelecom.md:80/live/eds/kinocomedia_sd/HLSv3/kinocomedia_sd.m3u8
+#EXTINF:-1,Киномикс
+#EXTGRP:Кино1
+http://45.80.44.93:25001/play/a04e/index.m3u8
+#EXTINF:-1,Кинокомедия HD
+#EXTGRP:Кино1
+http://87.247.44.26/btv/SWM/Kinokomedija/Kinokomedija_1080p_5000kbps.m3u8
+#EXTINF:-1,Родное Кино
+#EXTGRP:Кино1
+http://109.239.128.126:8080/rodnoe_kino/tracks-v2a1/mono.m3u8
+#EXTINF:-1,TV XXI ВЕК
+#EXTGRP:Кино1
+http://188.232.102.173:9981/stream/channelid/1721519262
+#EXTINF:-1,Победа
+#EXTGRP:Кино1
+http://188.232.102.173:9981/stream/channelid/625708915?ticket=770F956CBA2439CA93FCE277BDE4BB9DE593866C&profile=pass
+#EXTINF:-1,КиноСат
+#EXTGRP:Кино1
+http://45.80.44.79:25002/play/a01i/index.m3u8
+#EXTINF:-1,Кинопоказ
+#EXTGRP:Кино1
+http://91.221.201.2:7006/play/a002/index.m3u8
+#EXTINF:-1,Русский Роман HD
+#EXTGRP:Кино1
+http://45.80.44.93:25002/play/a03c/index.m3u8
+#EXTINF:-1,Русский Иллюзион
+#EXTGRP:Кино1
+http://45.80.44.93:25002/play/a03d/index.m3u8
+#EXTINF:-1,Русский Детектив
+#EXTGRP:Кино1
+http://45.80.44.93:25002/play/a03a/index.m3u8
+#EXTINF:-1,Русский Бестселлер
+#EXTGRP:Кино1
+http://45.80.44.93:25002/play/a015/index.m3u8
+#EXTINF:-1,Кино ТВ FHD
+#EXTGRP:Кино1
+http://109.239.128.126:8080/kino_tv_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Кино ТВ
+#EXTGRP:Кино1
+http://cache2.multiscreen.moldtelecom.md:80/live/eds/kinotv_sd/HLSv3/kinotv_sd.m3u8
+#EXTINF:-1,FlixSnip
+#EXTGRP:Кино1
+http://194.9.27.164:8108/play/FlixSnip/index.m3u8
+#EXTINF:-1,КИНОСВИДАНИЕ HD
+#EXTGRP:Кино1
+http://87.247.44.26/btv/SWM/Kinosvidanie/Kinosvidanie_1080p_5000kbps.m3u8
+#EXTINF:-1,Наше новое кино HD
+#EXTGRP:Кино1
+http://87.247.44.26/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_1080p_5000kbps.m3u8
+#EXTINF:-1,Мужское кино HD
+#EXTGRP:Кино1
+http://87.247.44.26/btv/SWM/MuzhskoyeKinoHD/MuzhskoyeKinoHD_720p_3500kbps.m3u8
+#EXTINF:-1,КИНОСЕМЬЯ
+#EXTGRP:Кино1
+http://cache2.multiscreen.moldtelecom.md:80/live/eds/kinosemya_sd/HLSv3/kinosemya_sd.m3u8
+#EXTINF:-1,TV XXI
+#EXTGRP:Кино1
+http://31.131.191.7:8000/play/a012
+#EXTINF:-1,КЛЮЧ
+#EXTGRP:Кино1
+http://31.131.191.7:8000/play/a02q
+#EXTINF:-1,Paramount Comedy
+#EXTGRP:Кино1
+http://176.197.77.101:81/udp/239.255.42.16:1234
+#EXTINF:-1,Bollywood HD
+#EXTGRP:Кино1
+http://46.34.209.243:80/btv/SWM/Bollywood_HD/Bollywood_HD.m3u8
+#EXTINF:-1,Bollywood HD 1080p
+#EXTGRP:Кино1
+http://46.34.209.243:80/btv/SWM/Bollywood_HD/Bollywood_HD_1080p_5000kbps.m3u8
+#EXTINF:-1,ДОМ КИНО
+#EXTGRP:Кино1
+http://46.34.209.243/btv/SWM/Dom_Kino/Dom_Kino_576p_2000kbps.m3u8
+#EXTINF:-1,РУССКИЙ ИЛЛЮЗИОН
+#EXTGRP:Кино1
+http://86.57.178.105:10823
+#EXTINF:-1,TV1 Cinemastan HD
+#EXTGRP:Кино1
+http://st.kglive.asia/hls/tv1cinema.m3u8
+#EXTINF:-1,Твое ТВ HD
+#EXTGRP:Кино1
+http://stream-norst.cf:8080/tvoetv/index.m3u8
+#EXTINF:-1,NST
+#EXTGRP:Кино1
+http://46.34.209.243:80/btv/SWM/HCT/HCT.m3u8
+#EXTINF:-1,НСТ
+#EXTGRP:Кино1
+http://46.34.209.243/btv/SWM/HCT/HCT_576p_2000kbps.m3u8
+#EXTINF:-1,Cinema
+#EXTGRP:Кино1
+http://46.34.209.242:80/btv/SWM/CINEMA/CINEMA_576p_2000kbps.m3u8
+#EXTINF:-1,ЕВРОКИНО
+#EXTGRP:Кино1
+http://46.34.209.243/btv/SWM/Eurokino/Eurokino_576p_2000kbps.m3u8
+#EXTINF:-1,ЕВРОКИНО
+#EXTGRP:Кино1
+http://37.99.5.235/btv/SWM/Eurokino/Eurokino_576p_2000kbps.m3u8
+#EXTINF:-1,Наше любимое кино
+#EXTGRP:Кино1
+http://37.99.5.235/btv/SWM/Nashe_Lubimoe_Kino/Nashe_Lubimoe_Kino_576p_2000kbps.m3u8
+#EXTINF:-1,Paradise HD
+#EXTGRP:Кино1
+http://195.154.242.229/Paradise_HD/video.m3u8?token=MXjzqOlW50
+#EXTINF:-1,Premium HD
+#EXTGRP:Кино1
+http://195.154.242.229/Premium_HD/video.m3u8?token=MXjzqOlW50
+#EXTINF:-1,РУкино HD
+#EXTGRP:Кино1
+http://195.154.242.229/RuKino_HD/video.m3u8?token=MXjzqOlW50
+#EXTINF:-1,Victory HD
+#EXTGRP:Кино1
+http://195.154.242.229/Victory_HD/video.m3u8?token=MXjzqOlW50
+#EXTINF:-1,USSR HD
+#EXTGRP:Кино1
+http://195.154.242.229/USSR_HD/video.m3u8?token=MXjzqOlW50
+#EXTINF:-1,VHS HD
+#EXTGRP:Кино1
+http://195.154.242.229/VHS_HD/video.m3u8?token=MXjzqOlW50
+#EXTINF:-1,BCU Action HD
+#EXTGRP:Кино1
+http://ch01.spr24.net/20810/mpegts?token=fmxXpwqiUt8irC
+#EXTINF:-1,BCU Catastrophe HD
+#EXTGRP:Кино1
+http://ch01.spr24.net/20811/mpegts?token=fmxXpwqiUt8irC
+#EXTINF:-1,BCU Comedy HD
+#EXTGRP:Кино1
+http://ch01.spr24.net/20813/mpegts?token=fmxXpwqiUt8irC
+#EXTINF:-1,BCU Cinema HD
+#EXTGRP:Кино1
+http://ch01.spr24.net/20812/mpegts?token=fmxXpwqiUt8irC
+#EXTINF:-1,BCU CINEMA+ HD
+#EXTGRP:Кино1
+http://ch01.spr24.net/20832/mpegts?token=fmxXpwqiUt8irC
+#EXTINF:-1,BCU Marvel HD
+#EXTGRP:Кино1
+http://ch01.spr24.net/20818/mpegts?token=fmxXpwqiUt8irC
+#EXTINF:-1,BCU СВАТЫ HD
+#EXTGRP:Кино1
+http://ch01.spr24.net/20829/mpegts?token=fmxXpwqiUt8irC
+#EXTINF:-1,BCU СССР HD
+#EXTGRP:Кино1
+http://ch01.spr24.net/20830/mpegts?token=fmxXpwqiUt8irC
+#EXTINF:-1,BCU Criminal HD
+#EXTGRP:Кино1
+http://ch01.spr24.net/21526/mpegts?token=fmxXpwqiUt8irC
+#EXTINF:-1,Thriller HD
+#EXTGRP:Кино1
+http://195.154.242.229/Thriller_HD/video.m3u8?token=MXjzqOlW50
+#EXTINF:-1,Serial HD
+#EXTGRP:Кино1
+http://195.154.242.229/Serial_HD/video.m3u8?token=MXjzqOlW50
+#EXTINF:-1,Premiere HD
+#EXTGRP:Кино1
+http://195.154.242.229/Premiere_HD/video.m3u8?token=MXjzqOlW50
+#EXTINF:-1,Paradox HD
+#EXTGRP:Кино1
+http://195.154.242.229/Paradox_HD/video.m3u8?token=MXjzqOlW50
+#EXTINF:-1,VIP Premiere
+#EXTGRP:Кино1
+https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
+#EXTINF:-1,VIP Megahit
+#EXTGRP:Кино1
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
+#EXTINF:-1,VIP Comedy
+#EXTGRP:Кино1
+https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
+
+
+
+
+
