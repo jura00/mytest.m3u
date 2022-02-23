@@ -12,7 +12,6 @@
 _________________________
 
 
-#EXTM3U
 #EXTINF:0,Первый HD
 #EXTGRP:Общие
 http://chopin.af-stream.com:1600/s/mpcclrdg/pervyj-hd/video.m3u8
