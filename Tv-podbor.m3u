@@ -9,6 +9,65 @@
 
 
 
+____________________________________________
+
+
+
+
+#EXTINF:0,Матч ТВ
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/sja0oeek/match/video.m3u8
+#EXTINF:0,Матч! Игра
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/sja0oeek/match-igra/video.m3u8
+#EXTINF:0,Матч! Арена
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/sja0oeek/match-arena/video.m3u8
+#EXTINF:0,Матч! Страна
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/sja0oeek/match-strana/video.m3u8
+#EXTINF:0,Матч! Планета
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/sja0oeek/match-planeta/video.m3u8
+#EXTINF:0,Старт HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/sja0oeek/start-hd/video.m3u8
+#EXTINF:0,Футбольный HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/sja0oeek/futbolnyj-hd/video.m3u8
+#EXTINF:0,Спортивный HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/sja0oeek/sportivnyj-hd/video.m3u8
+#EXTINF:0,Мир Баскетбола
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/sja0oeek/mir-basketbola/video.m3u8
+#EXTINF:0,Viasat Sport HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/sja0oeek/viasat-sport-hd/video.m3u8
+#EXTINF:0,Eurosport 1 HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/sja0oeek/eurosport-hd/video.m3u8
+#EXTINF:0,Eurosport 2 HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/sja0oeek/eurosport2-hd/video.m3u8
+#EXTINF:0,Setanta Sports 1 HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/sja0oeek/setanta-eurasia/video.m3u8
+#EXTINF:0,Setanta Sports 2 HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/sja0oeek/setanta-eurasia-plus/video.m3u8
+#EXTINF:0,Super Tennis HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/sja0oeek/super-tennis-hd/video.m3u8
+#EXTINF:0,Матч Премьер HD
+#EXTGRP:Спорт
+http://chopin.af-stream.com:1600/s/sja0oeek/nash-futbol-hd/video.m3u8
+
+
+
+
+
+
 Djem____________________________________
 
 
