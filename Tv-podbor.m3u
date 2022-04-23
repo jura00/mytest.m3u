@@ -17,6 +17,11 @@ iptv_b___________________________________________
 
 
 
+#EXTM3U
+
+
+
+
 #EXTINF:0,Первый HD
 #EXTGRP:Общие
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2402/index.m3u8
@@ -256,214 +261,214 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11091/index.m3u8
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/index.m3u8
 
 
-#EXTINF:0,Остросюжетное HD
+#EXTINF:0 tvg-rec="0",Остросюжетное HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/904/index.m3u8
-#EXTINF:0,Романтичное HD
+#EXTINF:0 tvg-rec="0",Романтичное HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/5053/index.m3u8
-#EXTINF:0,Комедийное HD
+#EXTINF:0 tvg-rec="0",Комедийное HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/912/index.m3u8
-#EXTINF:0,Хит HD
+#EXTINF:0 tvg-rec="0",Хит HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2438/index.m3u8
-#EXTINF:0,Блокбастер HD
+#EXTINF:0 tvg-rec="0",Блокбастер HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2436/index.m3u8
-#EXTINF:0,КИНОПРЕМЬЕРА HD
+#EXTINF:0 tvg-rec="0",КИНОПРЕМЬЕРА HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/224/index.m3u8
-#EXTINF:0,КИНОХИТ
+#EXTINF:0 tvg-rec="0",КИНОХИТ
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/516/index.m3u8
-#EXTINF:0,КИНОМИКС
+#EXTINF:0 tvg-rec="0",КИНОМИКС
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/509/index.m3u8
-#EXTINF:0,КИНОУЖАС
+#EXTINF:0 tvg-rec="0",КИНОУЖАС
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2056/index.m3u8
-#EXTINF:0,КИНОКОМЕДИЯ
+#EXTINF:0 tvg-rec="0",КИНОКОМЕДИЯ
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/7248/index.m3u8
-#EXTINF:0,КИНОСВИДАНИЕ
+#EXTINF:0 tvg-rec="0",КИНОСВИДАНИЕ
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/9238/index.m3u8
-#EXTINF:0,КИНОСЕМЬЯ
+#EXTINF:0 tvg-rec="0",КИНОСЕМЬЯ
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/125/index.m3u8
-#EXTINF:0,КИНО ТВ HD
+#EXTINF:0 tvg-rec="0",КИНО ТВ HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2097/index.m3u8
-#EXTINF:0,VIP Premiere
+#EXTINF:0 tvg-rec="0",VIP Premiere
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/202/index.m3u8
-#EXTINF:0,VIP Comedy
+#EXTINF:0 tvg-rec="0",VIP Comedy
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/200/index.m3u8
-#EXTINF:0,VIP Megahit
+#EXTINF:0 tvg-rec="0",VIP Megahit
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/201/index.m3u8
-#EXTINF:0,минимакс-007 HD
+#EXTINF:0 tvg-rec="0",минимакс-007 HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/13009/index.m3u8
-#EXTINF:0,минимакс-love HD
+#EXTINF:0 tvg-rec="0",минимакс-love HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/13010/index.m3u8
-#EXTINF:0,TV 1000
+#EXTINF:0 tvg-rec="0",TV 1000
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/132/index.m3u8
-#EXTINF:0,TV1000 Action
+#EXTINF:0 tvg-rec="0",TV1000 Action
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/131/index.m3u8
-#EXTINF:0,TV1000 World Kino
+#EXTINF:0 tvg-rec="0",TV1000 World Kino
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/1065/index.m3u8
-#EXTINF:0,CineMan
+#EXTINF:0 tvg-rec="0",CineMan
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11004/index.m3u8
-#EXTINF:0,CineMan Top
+#EXTINF:0 tvg-rec="0",CineMan Top
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11005/index.m3u8
-#EXTINF:0,CineMan Action
+#EXTINF:0 tvg-rec="0",CineMan Action
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11006/index.m3u8
-#EXTINF:0,CineMan Thriller
+#EXTINF:0 tvg-rec="0",CineMan Thriller
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11007/index.m3u8
-#EXTINF:0,CineMan Melodrama
+#EXTINF:0 tvg-rec="0",CineMan Melodrama
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11008/index.m3u8
-#EXTINF:0,CineMan Marvel
+#EXTINF:0 tvg-rec="0",CineMan Marvel
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11009/index.m3u8
-#EXTINF:0,CineMan Ужасы
+#EXTINF:0 tvg-rec="0",CineMan Ужасы
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11010/index.m3u8
-#EXTINF:0,CineMan Комедия
+#EXTINF:0 tvg-rec="0",CineMan Комедия
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11011/index.m3u8
-#EXTINF:0,CineMan VHS
+#EXTINF:0 tvg-rec="0",CineMan VHS
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11012/index.m3u8
-#EXTINF:0,BCU Кинозал Premiere 1 HD
+#EXTINF:0 tvg-rec="0",BCU Кинозал Premiere 1 HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11015/index.m3u8
-#EXTINF:0,BCU Кинозал Premiere 2 HD
+#EXTINF:0 tvg-rec="0",BCU Кинозал Premiere 2 HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11016/index.m3u8
-#EXTINF:0,BCU Кинозал Premiere 3 HD
+#EXTINF:0 tvg-rec="0",BCU Кинозал Premiere 3 HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11017/index.m3u8
-#EXTINF:0,BCU Action HD
+#EXTINF:0 tvg-rec="0",BCU Action HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11027/index.m3u8
-#EXTINF:0,BCU Criminal HD
+#EXTINF:0 tvg-rec="0",BCU Criminal HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11048/index.m3u8
-#EXTINF:0,BCU Catastrophe HD
+#EXTINF:0 tvg-rec="0",BCU Catastrophe HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11028/index.m3u8
-#EXTINF:0,BCU Cinema HD
+#EXTINF:0 tvg-rec="0",BCU Cinema HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11029/index.m3u8
-#EXTINF:0,BCU Cinema+ HD
+#EXTINF:0 tvg-rec="0",BCU Cinema+ HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11030/index.m3u8
-#EXTINF:0,BCU Comedy HD
+#EXTINF:0 tvg-rec="0",BCU Comedy HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11031/index.m3u8
-#EXTINF:0,BCU Fantastic HD
+#EXTINF:0 tvg-rec="0",BCU Fantastic HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11032/index.m3u8
-#EXTINF:0,BCU FilMystic HD
+#EXTINF:0 tvg-rec="0",BCU FilMystic HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11033/index.m3u8
-#EXTINF:0,BCU History HD
+#EXTINF:0 tvg-rec="0",BCU History HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11034/index.m3u8
-#EXTINF:0,BCU Kinorating HD
+#EXTINF:0 tvg-rec="0",BCU Kinorating HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11037/index.m3u8
-#EXTINF:0,BCU Marvel HD
+#EXTINF:0 tvg-rec="0",BCU Marvel HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11038/index.m3u8
-#EXTINF:0,BCU Premiere HD
+#EXTINF:0 tvg-rec="0",BCU Premiere HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11039/index.m3u8
-#EXTINF:0,BCU Romantic HD
+#EXTINF:0 tvg-rec="0",BCU Romantic HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11040/index.m3u8
-#EXTINF:0,BCU VHS HD
+#EXTINF:0 tvg-rec="0",BCU VHS HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11042/index.m3u8
-#EXTINF:0,BCUMEDIA HD
+#EXTINF:0 tvg-rec="0",BCUMEDIA HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11043/index.m3u8
-#EXTINF:0,BCU Stars HD
+#EXTINF:0 tvg-rec="0",BCU Stars HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11044/index.m3u8
-#EXTINF:0,BACKUS TV HD
+#EXTINF:0 tvg-rec="0",BACKUS TV HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11049/index.m3u8
-#EXTINF:0,BEST Films HD
+#EXTINF:0 tvg-rec="0",BEST Films HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11050/index.m3u8
-#EXTINF:0,LOST HD
+#EXTINF:0 tvg-rec="0",LOST HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11053/index.m3u8
-#EXTINF:0,Sky2000 HD
+#EXTINF:0 tvg-rec="0",Sky2000 HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11054/index.m3u8
-#EXTINF:0,The X-Files
+#EXTINF:0 tvg-rec="0",The X-Files
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11055/index.m3u8
-#EXTINF:0,Кинозал! ХИТ HD
+#EXTINF:0 tvg-rec="0",Кинозал! ХИТ HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11064/index.m3u8
-#EXTINF:0,Космо HD
+#EXTINF:0 tvg-rec="0",Космо HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11065/index.m3u8
-#EXTINF:0,СТРАХ HD
+#EXTINF:0 tvg-rec="0",СТРАХ HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11069/index.m3u8
-#EXTINF:0,ФАНТАСТИКА HD
+#EXTINF:0 tvg-rec="0",ФАНТАСТИКА HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11070/index.m3u8
-#EXTINF:0,Юнит HD
+#EXTINF:0 tvg-rec="0",Юнит HD
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11071/index.m3u8
-#EXTINF:0,KBC-Comics
+#EXTINF:0 tvg-rec="0",KBC-Comics
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11073/index.m3u8
-#EXTINF:0,KBC-Elite comedys
+#EXTINF:0 tvg-rec="0",KBC-Elite comedys
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11074/index.m3u8
-#EXTINF:0,KBC-Fantastic
+#EXTINF:0 tvg-rec="0",KBC-Fantastic
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11076/index.m3u8
-#EXTINF:0,KBC-History
+#EXTINF:0 tvg-rec="0",KBC-History
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11077/index.m3u8
-#EXTINF:0,KBC-Newfilm
+#EXTINF:0 tvg-rec="0",KBC-Newfilm
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11079/index.m3u8
-#EXTINF:0,KBC-Premium
+#EXTINF:0 tvg-rec="0",KBC-Premium
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11080/index.m3u8
-#EXTINF:0,KBC-ГАЙ Ritchie & Tarantino
+#EXTINF:0 tvg-rec="0",KBC-ГАЙ Ritchie & Tarantino
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11085/index.m3u8
-#EXTINF:0,KBC-Драма tic
+#EXTINF:0 tvg-rec="0",KBC-Драма tic
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11086/index.m3u8
-#EXTINF:0,KBC-Кинотеатр
+#EXTINF:0 tvg-rec="0",KBC-Кинотеатр
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11087/index.m3u8
-#EXTINF:0,KBC-Кошмарное
+#EXTINF:0 tvg-rec="0",KBC-Кошмарное
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11088/index.m3u8
-#EXTINF:0,KBC-Шпионское
+#EXTINF:0 tvg-rec="0",KBC-Шпионское
 #EXTGRP:Кино
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/11093/index.m3u8
 
@@ -685,28 +690,48 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6067/index.m3u8
 #EXTINF:0,ProSieben Maxx HD DE
 #EXTGRP:Deutsch TV
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6058/index.m3u8
-#EXTINF:0,TNT Film HD DE
+
+
+
+
+#EXTINF:0 tvg-rec="0",TNT Film HD DE
 #EXTGRP:Deutsch TV
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6110/index.m3u8
-#EXTINF:0,TNT Comedy HD DE
+#EXTINF:0 tvg-rec="0",TNT Comedy HD DE
 #EXTGRP:Deutsch TV
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6111/index.m3u8
-#EXTINF:0,TNT Serie HD DE
+#EXTINF:0 tvg-rec="0",TNT Serie HD DE
 #EXTGRP:Deutsch TV
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6090/index.m3u8
-#EXTINF:0,Comedy Central HD DE
+#EXTINF:0 tvg-rec="0",Comedy Central HD DE
 #EXTGRP:Deutsch TV
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6081/index.m3u8
-#EXTINF:0,Disney Cinemagic HD DE
+#EXTINF:0 tvg-rec="0",Disney Cinemagic HD DE
 #EXTGRP:Deutsch TV
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/2485/index.m3u8
-#EXTINF:0,Universal TV HD DE
+#EXTINF:0 tvg-rec="0",Universal TV HD DE
 #EXTGRP:Deutsch TV
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6094/index.m3u8
-#EXTINF:0,Syfy HD DE
+#EXTINF:0 tvg-rec="0",Syfy HD DE
 #EXTGRP:Deutsch TV
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6092/index.m3u8
-#EXTINF:0,Spiegel Geschichte HD DE
+
+#EXTINF:0 tvg-rec="0",Sky Cinema Thriller HD DE
+#EXTGRP:Kино
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6092/index.m3u8
+#EXTINF:0 tvg-rec="0",RTL Passion HD DE
+#EXTGRP:Kино
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/7230/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Romance TV FHD DE
+#EXTGRP:Kино
+http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6092/index.m3u8
+
+
+
+
+
+
+#EXTINF:0 tvg-rec="0",Spiegel Geschichte HD DE
 #EXTGRP:Deutsch TV
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/6091/index.m3u8
 #EXTINF:0,Deutsche Welle DE
