@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz,http://epg.it999.ru/epg.xml.gz,https://iptvx.one/epg/epg.xml.gz,http://www.teleguide.info/download/new3/xmltv.xml.gz,http://programtv.ru/xmltv.xml.gz,https://ottepg.ru/ottepg.xml.gz,http://stb.shara-tv.org/epg/epgtv.xml.gz" m3uautoload=1 cache=2000 deinterlace=1
+#EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz,http://epg.it999.ru/epg.xml.gz,https://iptvx.one/epg/epg.xml.gz,http://www.teleguide.info/download/new3/xmltv.xml.gz,http://programtv.ru/xmltv.xml.gz,https://ottepg.ru/ottepg.xml.gz,http://stb.shara-tv.org/epg/epgtv.xml.gz,https://iptv-org.github.io/epg/guides/de/hd-plus.de.epg.xml,https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml" m3uautoload=1 cache=2000 deinterlace=1
 
 
 
