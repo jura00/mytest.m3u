@@ -17,6 +17,290 @@ iptv_b___________________________________________
 
 
 
+#EXTINF: 0 catchup="flussonic-ts",Остросюжетное HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/904/index.m3u8
+
+
+#EXTINF: 0 catchup="flussonic",Остросюжетное HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/904/index.m3u8
+
+
+#EXTINF: 0 catchup="default" catchup-source="http://example.com/archive/?start=${start}",Остросюжетное HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/904/index.m3u8
+
+
+
+#EXTINF: 0 catchup="default" catchup-source="http://example.com/archive/?start=${start}",Остросюжетное HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/904/index.m3u8
+
+
+
+#EXTINF: 0 catchup="default",Остросюжетное HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/904/index.m3u8
+
+
+#EXTINF: 0 catchup="default" catchup-days="5", Остросюжетное HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/904/index.m3u8
+
+
+
+
+
+
+#EXTINF: 0 catchup="shift",Камеди HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/2441/index.m3u8
+#EXTINF: 0 catchup="shift",Остросюжетное HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/904/index.m3u8
+#EXTINF: 0 catchup="shift",Романтичное HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/5053/index.m3u8
+#EXTINF: 0 catchup="shift",Комедийное HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/912/index.m3u8
+#EXTINF: 0 catchup="shift",Про Любовь HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/2430/index.m3u8
+#EXTINF: 0 catchup="shift",Премиальное HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/10017/index.m3u8
+#EXTINF: 0 catchup="shift",Хит HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/2438/index.m3u8
+#EXTINF:0,Блокбастер HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/2436/index.m3u8
+#EXTINF: 0 catchup="shift",Thriller HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/11099/index.m3u8
+#EXTINF: 0 catchup="shift",КИНОПРЕМЬЕРА HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/224/index.m3u8
+#EXTINF: 0 catchup="shift",КИНОХИТ
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/516/index.m3u8
+#EXTINF: 0 catchup="shift",КИНОМИКС
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/509/index.m3u8
+#EXTINF: 0 catchup="shift",КИНОКОМЕДИЯ
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/7248/index.m3u8
+#EXTINF: 0 catchup="shift",КИНОСВИДАНИЕ
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/9238/index.m3u8
+#EXTINF: 0 catchup="shift",КИНОСЕМЬЯ
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/125/index.m3u8
+#EXTINF: 0 catchup="shift",КИНО ТВ HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/2097/index.m3u8
+#EXTINF: 0 catchup="shift",VIP Premiere
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/202/index.m3u8
+#EXTINF: 0 catchup="shift",VIP Comedy
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/200/index.m3u8
+#EXTINF: 0 catchup="shift",VIP Megahit
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/201/index.m3u8
+#EXTINF: 0 catchup="shift",VIP Serial HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/2443/index.m3u8
+#EXTINF: 0 catchup="shift",минимакс-007 HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/13009/index.m3u8
+#EXTINF: 0 catchup="shift",минимакс-love HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/13010/index.m3u8
+#EXTINF: 0 catchup="shift",TV 1000 HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/6387/index.m3u8
+#EXTINF: 0 catchup="shift",TV 1000 Action HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/6384/index.m3u8
+#EXTINF: 0 catchup="shift",TV1000 World Kino
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/1065/index.m3u8
+#EXTINF: 0 catchup="shift",Fox Life HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/6389/index.m3u8
+#EXTINF: 0 catchup="shift",Epic Drama
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/1048/index.m3u8
+#EXTINF:0,Дорама HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/2131/index.m3u8
+#EXTINF: 0 catchup="shift",ID Xtra HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/2102/index.m3u8
+#EXTINF:0,A2 HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/2046/index.m3u8
+#EXTINF: 0 catchup="shift",Мужское Кино HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/10045/index.m3u8
+#EXTINF: 0 catchup="shift",Капитан Фантастика HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/10046/index.m3u8
+#EXTINF: 0 catchup="shift",Киноужас HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/2056/index.m3u8
+#EXTINF: 0 catchup="shift",Шокирующее HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/6299/index.m3u8
+#EXTINF: 0 catchup="shift",CineMan
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/11004/index.m3u8
+#EXTINF: 0 catchup="shift",CineMan Top
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/11005/index.m3u8
+#EXTINF: 0 catchup="shift",CineMan Action
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/11006/index.m3u8
+#EXTINF: 0 catchup="shift",CineMan Thriller
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/11007/index.m3u8
+#EXTINF: 0 catchup="shift",CineMan Melodrama
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/11008/index.m3u8
+#EXTINF: 0 catchup="shift",CineMan Marvel
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/11009/index.m3u8
+#EXTINF: 0 catchup="shift",CineMan Ужасы
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/11010/index.m3u8
+#EXTINF: 0 catchup="shift",CineMan Комедия
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/11011/index.m3u8
+#EXTINF: 0 catchup="shift",CineMan VHS
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/11012/index.m3u8
+#EXTINF: 0 catchup="shift",BCU Кинозал Premiere 1 HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/11015/index.m3u8
+#EXTINF: 0 catchup="shift",BCU Кинозал Premiere 2 HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/11016/index.m3u8
+#EXTINF: 0 catchup="shift",BCU Кинозал Premiere 3 HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/11017/index.m3u8
+#EXTINF: 0 catchup="shift",BCU Action HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/11027/index.m3u8
+#EXTINF: 0 catchup="shift",BCU Criminal HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/11048/index.m3u8
+#EXTINF: 0 catchup="shift",BCU Survival HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/17019/index.m3u8
+#EXTINF: 0 catchup="shift",BCU Catastrophe HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/11028/index.m3u8
+#EXTINF: 0 catchup="shift",BCU TruMotion HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/17054/index.m3u8
+#EXTINF: 0 catchup="shift",BCU Comedy HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/11031/index.m3u8
+#EXTINF: 0 catchup="shift",BCU Fantastic HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/11032/index.m3u8
+#EXTINF: 0 catchup="shift",BCU FilMystic HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/11033/index.m3u8
+#EXTINF: 0 catchup="shift",BCU History HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/11034/index.m3u8
+#EXTINF: 0 catchup="shift",BCU Kinorating HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/11037/index.m3u8
+#EXTINF: 0 catchup="shift",BCU Marvel HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/11038/index.m3u8
+#EXTINF: 0 catchup="shift",BCU Premiere HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/11039/index.m3u8
+#EXTINF: 0 catchup="shift",CU Romantic HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/11040/index.m3u8
+#EXTINF: 0 catchup="shift",BCU VHS HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/11042/index.m3u8
+#EXTINF: 0 catchup="shift",BCUMEDIA HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/11043/index.m3u8
+#EXTINF: 0 catchup="shift",BCU Stars HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/11044/index.m3u8
+#EXTINF: 0 catchup="shift",BEST Films HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/11050/index.m3u8
+#EXTINF: 0 catchup="shift",LOST HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/11053/index.m3u8
+#EXTINF: 0 catchup="shift",Sky2000 HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/11054/index.m3u8
+#EXTINF: 0 catchup="shift",The X-Files
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/11055/index.m3u8
+#EXTINF: 0 catchup="shift",Кинозал! ХИТ HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/11064/index.m3u8
+#EXTINF: 0 catchup="shift",СТРАХ HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/11069/index.m3u8
+#EXTINF: 0 catchup="shift",ФАНТАСТИКА HD
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/11070/index.m3u8
+#EXTINF: 0 catchup="shift",KBC-Comics
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/11073/index.m3u8
+#EXTINF: 0 catchup="shift",KBC-Elite comedys
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/11074/index.m3u8
+#EXTINF: 0 catchup="shift",KBC-Fantastic
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/11076/index.m3u8
+#EXTINF: 0 catchup="shift",KBC-History
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/11077/index.m3u8
+#EXTINF: 0 catchup="shift",KBC-Newfilm
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/11079/index.m3u8
+#EXTINF: 0 catchup="shift",KBC-Premium
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/11080/index.m3u8
+#EXTINF: 0 catchup="shift",KBC-Драма tic
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/11086/index.m3u8
+#EXTINF: 0 catchup="shift",KBC-Кинотеатр
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/11087/index.m3u8
+#EXTINF: 0 catchup="shift",KBC-Кошмарное
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/11088/index.m3u8
+#EXTINF: 0 catchup="shift",KBC-Шпионское
+#EXTGRP:Кино
+http://a709ef1b.edmonst.net/iptv/BA4D7VVAK7Y752/11093/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
 #EXTM3U
 #EXTINF:0,Первый HD
 #EXTGRP:Общие
